@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"8c732801c087e849","type":"file","file":"Mathematics/Algebra/Linear Algebra/Systems of Linear Equations/System of Linear Equations.md","x":-240,"y":-96,"width":633,"height":336,"color":"1"},
+		{"id":"50cf662905945f0c","type":"file","file":"Mathematics/Algebra/Linear Algebra/Systems of Linear Equations/Augmented Matrix.md","x":81,"y":360,"width":624,"height":530,"color":"1"},
+		{"id":"9909d9588cecffcd","type":"file","file":"Mathematics/Algebra/Linear Algebra/Systems of Linear Equations/Coefficient Matrix.md","x":-480,"y":360,"width":480,"height":465,"color":"1"},
+		{"id":"62d513aef286b066","type":"file","file":"Mathematics/Algebra/Linear Algebra/Systems of Linear Equations/Matrix Form of a System of Linear Equations.md","x":-1220,"y":381,"width":650,"height":423,"color":"1"},
+		{"id":"0926eb448e4c91b9","type":"file","file":"Mathematics/Algebra/Linear Algebra/Systems of Linear Equations/Solvability of a System of Linear Equations.md","x":-100,"y":1000,"width":623,"height":759},
+		{"id":"19343beb1b7f8f9c","type":"file","file":"Mathematics/Algebra/Linear Algebra/Systems of Linear Equations/Gauss-Jordan Elimination.md","x":-250,"y":1860,"width":924,"height":600,"color":"#086ddd"},
+		{"id":"a392e8fbf26c3ec1","type":"file","file":"Mathematics/Algebra/Linear Algebra/Systems of Linear Equations/Elementary Row Operations.md","x":-895,"y":1000,"width":660,"height":661},
+		{"id":"c2b551be2e385976","x":-1020,"y":1780,"width":640,"height":760,"color":"1","type":"file","file":"Mathematics/Algebra/Linear Algebra/Systems of Linear Equations/Row Echelon Form.md"},
+		{"id":"9e96bc97c520d087","x":-940,"y":2600,"width":480,"height":300,"color":"1","type":"file","file":"Mathematics/Algebra/Linear Algebra/Systems of Linear Equations/Rank.md"}
+	],
+	"edges":[
+		{"id":"93d5365daa4f3bac","fromNode":"8c732801c087e849","fromSide":"bottom","toNode":"9909d9588cecffcd","toSide":"top"},
+		{"id":"2c251f218a5b1766","fromNode":"8c732801c087e849","fromSide":"bottom","toNode":"50cf662905945f0c","toSide":"top"},
+		{"id":"2f7e9b01f375be1d","fromNode":"9909d9588cecffcd","fromSide":"left","toNode":"62d513aef286b066","toSide":"right"},
+		{"id":"147e09e8247d34cb","fromNode":"0926eb448e4c91b9","fromSide":"bottom","toNode":"19343beb1b7f8f9c","toSide":"top","toEnd":"none"}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"f527f4883e7a8fe4","x":481,"y":-25,"width":619,"height":465,"color":"1","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Row and Column Vectors/Complex Vectors/Complex Dot Product.md"},
+		{"id":"d25e14ba3982ed3c","x":501,"y":-400,"width":580,"height":300,"color":"5","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Row and Column Vectors/Complex Vectors/Structure of the Complex Vector Space.md"},
+		{"id":"628aa8648631564b","x":-80,"y":17,"width":461,"height":381,"color":"1","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Row and Column Vectors/Complex Vectors/Complex Vector.md"}
+	],
+	"edges":[
+		{"id":"14cbc0e383bbf957","fromNode":"f527f4883e7a8fe4","fromSide":"top","toNode":"d25e14ba3982ed3c","toSide":"bottom"}
+	]
+}

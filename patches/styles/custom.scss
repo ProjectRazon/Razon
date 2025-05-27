@@ -1,0 +1,22 @@
+@use "./base.scss";
+
+// put your custom CSS here!
+
+// Tables
+th {
+    text-align: left;
+    padding: 0.4rem 0.7rem;
+    border: 2px solid var(--gray) !important;
+  }
+  
+  td {
+    padding: 0.2rem 0.7rem;
+    border: 2px solid var(--lightgray) !important;
+  }
+  
+  tr {
+    border-bottom: 1px solid var(--lightgray);
+    &:last-child {
+      border-bottom: none;
+    }
+  }

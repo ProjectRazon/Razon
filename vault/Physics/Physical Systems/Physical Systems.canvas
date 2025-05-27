@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"db5177052ffa4990","type":"file","file":"Physical Systems/Physical System.md","x":-150,"y":-154,"width":550,"height":434,"color":"1"},
+		{"id":"ab502861ab9e6eb5","type":"file","file":"Physical Systems/Closed System.md","x":520,"y":-83,"width":434,"height":292,"color":"1"},
+		{"id":"637e589e8f120855","type":"file","file":"Physical Systems/Parameter.md","x":-228,"y":360,"width":707,"height":980,"color":"1"},
+		{"id":"7eaf4da8f2b3ee13","type":"file","file":"Physical Systems/Phase Space.md","x":-147,"y":1740,"width":547,"height":260,"color":"1"},
+		{"id":"f8d6fa930703e896","type":"file","file":"Physical Systems/Physical State.md","x":-138,"y":1420,"width":528,"height":260,"color":"1"},
+		{"id":"50e815d3404b6540","type":"file","file":"Physical Systems/Degree of Freedom.md","x":560,"y":639,"width":737,"height":422,"color":"1"}
+	],
+	"edges":[
+		{"id":"c0dac56091069955","fromNode":"db5177052ffa4990","fromSide":"right","toNode":"ab502861ab9e6eb5","toSide":"left"},
+		{"id":"dd2acd2c44a6f28e","fromNode":"db5177052ffa4990","fromSide":"bottom","toNode":"637e589e8f120855","toSide":"top"},
+		{"id":"ed3989f7a53fe26b","fromNode":"637e589e8f120855","fromSide":"bottom","toNode":"f8d6fa930703e896","toSide":"top"},
+		{"id":"50ba82a22173cea1","fromNode":"f8d6fa930703e896","fromSide":"bottom","toNode":"7eaf4da8f2b3ee13","toSide":"top"},
+		{"id":"964313bb3e760db2","fromNode":"637e589e8f120855","fromSide":"right","toNode":"50e815d3404b6540","toSide":"left"}
+	]
+}

@@ -1,0 +1,5 @@
+.obsidian/**/*
+!.obsidian/snippets/
+!.obsidian/snippets/callouts.css
+.trash
+.stfolder/

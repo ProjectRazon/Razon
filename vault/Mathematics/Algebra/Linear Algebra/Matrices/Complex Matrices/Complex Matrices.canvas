@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"a631c4a9160bfaac","x":-191,"y":-193,"width":591,"height":193,"color":"1","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Complex Matrices/Complex Matrix.md"},
+		{"id":"b3562795776d9a08","x":640,"y":-176,"width":540,"height":416,"color":"1","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Complex Matrices/Hermitian Transposition.md"}
+	],
+	"edges":[]
+}

@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"1a00b787f7b202ee","type":"file","file":"Mechanics/Relativistic Mechanics/Special Theory of Relativity/Lorentz Boost.md","x":-113,"y":-138,"width":613,"height":778,"color":"5"},
+		{"id":"419e6858c5ac1881","x":-600,"y":-645,"width":400,"height":360,"color":"1","type":"file","file":"Mechanics/Relativistic Mechanics/Special Theory of Relativity/Lorentz Factor.md"},
+		{"id":"17efba85b879e0a2","x":-6,"y":-645,"width":400,"height":400,"color":"#fc03ca","type":"file","file":"Mechanics/Relativistic Mechanics/Special Theory of Relativity/Postulates of Special Relativity.md"},
+		{"id":"2967e13a21947d45","x":-960,"y":760,"width":706,"height":1295,"color":"5","type":"file","file":"Mechanics/Relativistic Mechanics/Special Theory of Relativity/Relativity of Event Order.md"},
+		{"id":"7b83b4455e6c8b0f","x":-125,"y":756,"width":585,"height":604,"color":"5","type":"file","file":"Mechanics/Relativistic Mechanics/Special Theory of Relativity/Time Dilation.md"}
+	],
+	"edges":[
+		{"id":"d1ee0fdc844eae1d","fromNode":"17efba85b879e0a2","fromSide":"bottom","toNode":"1a00b787f7b202ee","toSide":"top"}
+	]
+}

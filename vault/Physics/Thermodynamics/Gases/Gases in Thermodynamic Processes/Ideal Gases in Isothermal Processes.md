@@ -1,0 +1,4 @@
+>[!DEFINITION] Definition: Isothermal Process
+>
+>
+>

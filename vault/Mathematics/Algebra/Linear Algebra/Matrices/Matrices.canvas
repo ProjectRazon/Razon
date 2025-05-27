@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"553528d02898136e","type":"group","x":-379,"y":430,"width":2298,"height":1406,"label":"Matrix Operations"},
+		{"id":"833da919503a742f","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Vector Space of Matrices.md","x":-1160,"y":615,"width":662,"height":416,"color":"5"},
+		{"id":"cf1662dc399e6940","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Matrix Operations/Scalar Multiplication.md","x":-359,"y":853,"width":591,"height":357,"color":"1"},
+		{"id":"b37bf1a66caa0f6b","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Matrix Operations/Matrix Addition.md","x":-359,"y":450,"width":779,"height":330,"color":"1"},
+		{"id":"c8a22bb1a92db291","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Zero Matrix.md","x":-1074,"y":200,"width":491,"height":321,"color":"1"},
+		{"id":"f9b7972bf0ceb157","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Matrix Operations/Matrix Product.md","x":480,"y":450,"width":655,"height":1366,"color":"1"},
+		{"id":"8169891007dbc5de","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Matrix.md","x":31,"y":-484,"width":546,"height":427,"color":"1"},
+		{"id":"0d28a71abbeba4c2","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Null Space.md","x":1191,"y":-640,"width":460,"height":369,"color":"1"},
+		{"id":"b733e9dee067a95b","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Matrix Operations/Matrix Transposition.md","x":1200,"y":450,"width":624,"height":1312,"color":"1"},
+		{"id":"4dbfc230fb335096","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Row Space.md","x":-2100,"y":305,"width":518,"height":457,"color":"1"},
+		{"id":"d3f5ca94b64c3c29","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Column Space.md","x":-2144,"y":850,"width":562,"height":440,"color":"1"},
+		{"id":"6067dd6976f93d0f","x":-2840,"y":640,"width":576,"height":281,"color":"5","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Column Rank = Rank = Row Rank.md"},
+		{"id":"e795171f37fad449","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Null Space.md","x":-2124,"y":1370,"width":522,"height":361,"color":"1"}
+	],
+	"edges":[
+		{"id":"c880b2882dd206a9","fromNode":"b37bf1a66caa0f6b","fromSide":"left","toNode":"833da919503a742f","toSide":"right"},
+		{"id":"c59110a01f63d306","fromNode":"cf1662dc399e6940","fromSide":"left","toNode":"833da919503a742f","toSide":"right"},
+		{"id":"b69527bec8d82490","fromNode":"c8a22bb1a92db291","fromSide":"bottom","toNode":"833da919503a742f","toSide":"top","toEnd":"none"},
+		{"id":"10cf039f8ad39414","fromNode":"4dbfc230fb335096","fromSide":"left","toNode":"6067dd6976f93d0f","toSide":"right"},
+		{"id":"80dd41ac38f69fa5","fromNode":"d3f5ca94b64c3c29","fromSide":"left","toNode":"6067dd6976f93d0f","toSide":"right"}
+	]
+}

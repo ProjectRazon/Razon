@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"4263842680955af4","x":-2080,"y":2519,"width":2384,"height":2231,"type":"group","label":"Eigentheory"},
+		{"id":"78ebd8e5c8933fe4","type":"group","x":640,"y":800,"width":1743,"height":1937,"label":"Determinants"},
+		{"id":"728324cab47dabb3","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Square Matrices/Square Matrix.md","x":-190,"y":1,"width":590,"height":199,"color":"1"},
+		{"id":"02ef505d053c71a5","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Square Matrices/Matrix Similarity.md","x":1000,"y":340,"width":444,"height":261,"color":"1"},
+		{"id":"5eac2febda8e92bc","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Square Matrices/Invertibility/Invertibility.md","x":-239,"y":280,"width":688,"height":944},
+		{"id":"8caea0714b1d86e3","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Square Matrices/Identity Matrix.md","x":-1000,"y":459,"width":660,"height":585},
+		{"id":"51ce16cf4022afac","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Square Matrices/Trace.md","x":1022,"y":-92,"width":400,"height":372,"color":"1"},
+		{"id":"efc520848dc57a92","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Square Matrices/Eigentheory/Eigenvector.md","x":-1622,"y":2539,"width":522,"height":461,"color":"1"},
+		{"id":"a4c4a13a691ae6f2","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Square Matrices/Eigentheory/Eigenvector.md","x":-960,"y":2541,"width":529,"height":457,"color":"1"},
+		{"id":"aafdece2f50d4450","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Square Matrices/Eigentheory/Eigenspace.md","x":-1380,"y":3160,"width":725,"height":727,"color":"1"},
+		{"id":"dee7ff7643fccb0e","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Square Matrices/Eigentheory/Eigenbasis.md","x":-2060,"y":3160,"width":558,"height":222,"color":"1"},
+		{"id":"54a2315f92891698","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Square Matrices/Eigentheory/Linear Independence of Eigenvectors.md","x":-360,"y":2600,"width":609,"height":339,"color":"5"},
+		{"id":"ee8f3045610561e0","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Square Matrices/Invertibility/Finding Matrix Inverses.md","x":-156,"y":1300,"width":522,"height":705,"color":"#086ddd"},
+		{"id":"e982c6f3e25145ca","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Square Matrices/Determinants/Effects of Row and Column Operations on Determinants.md","x":1432,"y":1219,"width":931,"height":363,"color":"5"},
+		{"id":"f4d1fb134001a2d5","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Square Matrices/Determinants/Calculating the Determinant.md","x":1432,"y":1619,"width":930,"height":1098,"color":"#086ddd"},
+		{"id":"68a4a370274abb07","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Square Matrices/Determinants/Cofactor Matrix.md","x":1433,"y":820,"width":625,"height":359,"color":"1"},
+		{"id":"63541dafd70fff1e","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Square Matrices/Determinants/Determinant.md","x":660,"y":820,"width":688,"height":1250},
+		{"id":"9d376ceba2a48854","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Square Matrices/Eigentheory/Characteristic Polynomial.md","x":-520,"y":3160,"width":804,"height":959},
+		{"id":"2fe2f9392bb73c2e","x":-1297,"y":4000,"width":559,"height":730,"color":"1","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Square Matrices/Eigentheory/Eigendecomposition.md"}
+	],
+	"edges":[
+		{"id":"ff8a92dbeaa1ca17","fromNode":"ee8f3045610561e0","fromSide":"top","toNode":"5eac2febda8e92bc","toSide":"bottom","toEnd":"none"},
+		{"id":"95b1bdc546fabaa8","fromNode":"8caea0714b1d86e3","fromSide":"right","toNode":"5eac2febda8e92bc","toSide":"left","toEnd":"none"},
+		{"id":"d67ad488c3e28a6b","fromNode":"efc520848dc57a92","fromSide":"right","toNode":"a4c4a13a691ae6f2","toSide":"left","toEnd":"none"},
+		{"id":"100db29bfbab52b4","fromNode":"efc520848dc57a92","fromSide":"bottom","toNode":"aafdece2f50d4450","toSide":"top"},
+		{"id":"02ddd6f62f2c1b4d","fromNode":"a4c4a13a691ae6f2","fromSide":"bottom","toNode":"aafdece2f50d4450","toSide":"top"},
+		{"id":"092eafb781848106","fromNode":"a4c4a13a691ae6f2","fromSide":"right","toNode":"54a2315f92891698","toSide":"left"}
+	]
+}

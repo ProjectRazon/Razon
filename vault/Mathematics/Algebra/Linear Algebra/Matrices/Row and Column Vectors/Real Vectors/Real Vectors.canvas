@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"17cf1d6d580149dd","x":-100,"y":-130,"width":400,"height":370,"color":"1","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Row and Column Vectors/Real Vectors/Real Vector.md"},
+		{"id":"633f308edeb55b96","x":360,"y":-175,"width":580,"height":460,"color":"1","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Row and Column Vectors/Real Vectors/Real Dot Product.md"},
+		{"id":"f74c9ab40a6754c3","x":248,"y":-560,"width":804,"height":283,"color":"5","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Row and Column Vectors/Real Vectors/Canonical Norm in the Real Vector Space.md"},
+		{"id":"d9c74474d6a3142c","x":389,"y":-960,"width":522,"height":320,"color":"5","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Row and Column Vectors/Real Vectors/Structure of the Real Vector Space.md"},
+		{"id":"abd9f06dee0d7f87","x":341,"y":-1320,"width":618,"height":292,"color":"5","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Row and Column Vectors/Real Vectors/Standard Basis of the Real Vector Space.md"},
+		{"id":"acb7ed3b6cfd7b49","x":1120,"y":-1428,"width":480,"height":468,"color":"#0000ff","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Row and Column Vectors/Real Vectors/Standard Basis in 3D.md"},
+		{"id":"73345f0f2cbe7bf1","x":370,"y":360,"width":560,"height":2164,"color":"1","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Row and Column Vectors/Real Vectors/Real Cross Product.md"}
+	],
+	"edges":[
+		{"id":"51fdb836842205ba","fromNode":"633f308edeb55b96","fromSide":"top","toNode":"f74c9ab40a6754c3","toSide":"bottom"},
+		{"id":"67ffaba52f517ec7","fromNode":"f74c9ab40a6754c3","fromSide":"top","toNode":"d9c74474d6a3142c","toSide":"bottom"},
+		{"id":"7a4668b25e79a21a","fromNode":"d9c74474d6a3142c","fromSide":"top","toNode":"abd9f06dee0d7f87","toSide":"bottom"}
+	]
+}

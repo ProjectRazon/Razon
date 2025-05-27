@@ -1,0 +1,60 @@
+name: Deploy Razon to Github Pages
+ 
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+ 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+ 
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+ 
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Fetch all history for git info
+          submodules: true
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install Quartz
+        working-directory: ./quartz
+        run: npm i
+
+      - name: Install Dependencies
+        working-directory: ./quartz
+        run: npm ci
+
+      - name: Patch Quartz
+        working-directory: ./patches
+        run: bash patch.sh | true # If the folders are empty, do not return an error
+
+      - name: Build Quartz
+        working-directory: ./quartz
+        run: npx quartz build --directory=../vault
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: quartz/public
+ 
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

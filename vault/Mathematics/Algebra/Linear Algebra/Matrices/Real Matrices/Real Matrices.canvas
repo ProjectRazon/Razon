@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"e3dfbeb5cd75976f","x":-102,"y":101,"width":1622,"height":680,"type":"group","label":"Orthogonal Matrices"},
+		{"id":"657f0d30ca927830","x":-1180,"y":140,"width":705,"height":700,"type":"group","label":"Symmetric Matrices"},
+		{"id":"2805cc735d881ea7","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Real Matrices/Real Matrix.md","x":-154,"y":-214,"width":514,"height":194,"color":"1"},
+		{"id":"2c476cbd76e9f007","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Real Matrices/Real Symmetric Matrices/Definiteness of Real Symmetric Matrices.md","x":-1160,"y":465,"width":665,"height":355,"color":"1"},
+		{"id":"5e69b91be009d471","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Real Matrices/Real Symmetric Matrices/Real Symmetric Matrix.md","x":-1053,"y":160,"width":452,"height":220,"color":"1"},
+		{"id":"b0cced3d657541b4","x":104,"y":182,"width":400,"height":218,"color":"1","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Real Matrices/Real Orthogonal Matrices/Real Orthogonal Matrix.md"},
+		{"id":"4ca00acbd50ab004","x":-82,"y":460,"width":772,"height":301,"color":"5","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Real Matrices/Real Orthogonal Matrices/Length Preservation of Real Orthogonal Matrices.md"},
+		{"id":"c302ec7a616a4b4c","x":740,"y":121,"width":760,"height":340,"color":"5","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Real Matrices/Real Orthogonal Matrices/Orthonormal Bases from Orthogonal Matrices.md"}
+	],
+	"edges":[
+		{"id":"0bda2caf7f3a988a","fromNode":"5e69b91be009d471","fromSide":"bottom","toNode":"2c476cbd76e9f007","toSide":"top"},
+		{"id":"3719acbdb0b4d391","fromNode":"b0cced3d657541b4","fromSide":"bottom","toNode":"4ca00acbd50ab004","toSide":"top"},
+		{"id":"92faed31cec8f67e","fromNode":"b0cced3d657541b4","fromSide":"right","toNode":"c302ec7a616a4b4c","toSide":"left"}
+	]
+}

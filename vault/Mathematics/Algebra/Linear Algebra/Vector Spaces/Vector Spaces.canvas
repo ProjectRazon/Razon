@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"971f909b7009bbd8","x":2040,"y":80,"width":2109,"height":1600,"type":"group","label":"Bases"},
+		{"id":"822cc1e328961fe9","type":"file","file":"Mathematics/Algebra/Linear Algebra/Vector Spaces/Vector Space.md","x":-182,"y":-407,"width":662,"height":1047,"color":"1"},
+		{"id":"c9386c422901dc95","type":"file","file":"Mathematics/Algebra/Linear Algebra/Vector Spaces/Subspace.md","x":-91,"y":740,"width":479,"height":570,"color":"1"},
+		{"id":"2e0c43f9ea0e1c1b","type":"file","file":"Mathematics/Algebra/Linear Algebra/Vector Spaces/Vector.md","x":-880,"y":-22,"width":517,"height":277,"color":"1"},
+		{"id":"0598ab8cadc76a0f","type":"file","file":"Mathematics/Algebra/Linear Algebra/Vector Spaces/Linear Dependence.md","x":680,"y":-849,"width":606,"height":609},
+		{"id":"d9b29b1f261ccc89","type":"file","file":"Mathematics/Algebra/Linear Algebra/Vector Spaces/Linear Independence.md","x":1400,"y":-882,"width":732,"height":676},
+		{"id":"d25e5f9df7b17982","type":"file","file":"Mathematics/Algebra/Linear Algebra/Vector Spaces/Spanning Set (Generator).md","x":992,"y":755,"width":588,"height":578,"color":"1"},
+		{"id":"53bb980d362da834","type":"file","file":"Mathematics/Algebra/Linear Algebra/Vector Spaces/Span.md","x":1086,"y":255,"width":400,"height":400,"color":"1"},
+		{"id":"084c9032e163e002","type":"file","file":"Mathematics/Algebra/Linear Algebra/Vector Spaces/Linear Combination.md","x":1039,"y":-125,"width":495,"height":310,"color":"1"},
+		{"id":"ed96e9583932a75e","type":"file","file":"Mathematics/Algebra/Linear Algebra/Vector Spaces/Bases/Steinitz Exchange Lemma.md","x":3460,"y":521,"width":669,"height":400,"color":"5"},
+		{"id":"f867f6b2286b6685","type":"file","file":"Mathematics/Algebra/Linear Algebra/Vector Spaces/Bases/Basis.md","x":2779,"y":540,"width":443,"height":362,"color":"1"},
+		{"id":"b1d2d62bd66c37d7","type":"file","file":"Mathematics/Algebra/Linear Algebra/Vector Spaces/Bases/Ordered Basis.md","x":2761,"y":974,"width":480,"height":241,"color":"1"},
+		{"id":"88c518013c5be008","type":"file","file":"Mathematics/Algebra/Linear Algebra/Vector Spaces/Bases/Coordinate Vector.md","x":2634,"y":1300,"width":733,"height":360,"color":"1"},
+		{"id":"122e6595db6d0424","type":"file","file":"Mathematics/Algebra/Linear Algebra/Vector Spaces/Bases/Basis Criteria.md","x":2663,"y":100,"width":676,"height":337,"color":"5"},
+		{"id":"baa3409e6213dec3","type":"file","file":"Mathematics/Algebra/Linear Algebra/Vector Spaces/Bases/Dimension.md","x":2060,"y":468,"width":562,"height":506,"color":"1"}
+	],
+	"edges":[
+		{"id":"d8eae5a317017d93","fromNode":"822cc1e328961fe9","fromSide":"bottom","toNode":"c9386c422901dc95","toSide":"top"},
+		{"id":"5858b7069b22f6a0","fromNode":"2e0c43f9ea0e1c1b","fromSide":"right","toNode":"822cc1e328961fe9","toSide":"left","toEnd":"none"},
+		{"id":"de74c9379a3a76a7","fromNode":"0598ab8cadc76a0f","fromSide":"right","toNode":"d9b29b1f261ccc89","toSide":"left","toEnd":"none"},
+		{"id":"3b3ca06766f5b275","fromNode":"084c9032e163e002","fromSide":"bottom","toNode":"53bb980d362da834","toSide":"top"},
+		{"id":"67614c5b41efee1d","fromNode":"53bb980d362da834","fromSide":"bottom","toNode":"d25e5f9df7b17982","toSide":"top"},
+		{"id":"5f20e8711326ea99","fromNode":"f867f6b2286b6685","fromSide":"bottom","toNode":"b1d2d62bd66c37d7","toSide":"top"},
+		{"id":"8593f94dcb7da3cf","fromNode":"b1d2d62bd66c37d7","fromSide":"bottom","toNode":"88c518013c5be008","toSide":"top"},
+		{"id":"5bcc84ac63dde48c","fromNode":"f867f6b2286b6685","fromSide":"left","toNode":"baa3409e6213dec3","toSide":"right"},
+		{"id":"af0f74a8492f7eea","fromNode":"122e6595db6d0424","fromSide":"bottom","toNode":"f867f6b2286b6685","toSide":"top"}
+	]
+}

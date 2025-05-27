@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"3686396dde7b4aad","x":-168,"y":-93,"width":568,"height":193,"color":"1","type":"file","file":"Mathematics/Algebra/Linear Algebra/Vector Spaces/Normed Vector Spaces/Normed Vector Space.md"},
+		{"id":"3e991d4273427443","x":-168,"y":-500,"width":568,"height":320,"color":"1","type":"file","file":"Mathematics/Algebra/Linear Algebra/Vector Spaces/Normed Vector Spaces/Norm.md"},
+		{"id":"5b9b57f21a90d863","x":500,"y":-40,"width":536,"height":400,"type":"file","file":"Mathematics/Algebra/Linear Algebra/Vector Spaces/Normed Vector Spaces/Unit Vector.md"}
+	],
+	"edges":[
+		{"id":"0ab4b8ab9e522c8f","fromNode":"3e991d4273427443","fromSide":"bottom","toNode":"3686396dde7b4aad","toSide":"top"}
+	]
+}

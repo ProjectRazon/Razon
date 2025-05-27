@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"edd4a9f250ad20bf","x":-116,"y":-153,"width":400,"height":353,"color":"1","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Row and Column Vectors/Row Vector.md"},
+		{"id":"55ce3e434208c25e","x":400,"y":-176,"width":400,"height":400,"color":"1","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Row and Column Vectors/Column Vector.md"},
+		{"id":"88a30ba16f9750ec","x":900,"y":-168,"width":476,"height":384,"color":"1","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Row and Column Vectors/Standard Basis.md"}
+	],
+	"edges":[
+		{"id":"9eaf2a6e10580f28","fromNode":"55ce3e434208c25e","fromSide":"right","toNode":"88a30ba16f9750ec","toSide":"left"}
+	]
+}

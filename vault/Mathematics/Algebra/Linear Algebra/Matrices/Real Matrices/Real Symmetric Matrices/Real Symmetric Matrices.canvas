@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"4f469f95339bc39a","x":-65,"y":-195,"width":665,"height":355,"color":"1","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Real Matrices/Real Symmetric Matrices/Definiteness of Real Symmetric Matrices.md"},
+		{"id":"0a0412304413a163","x":42,"y":-500,"width":452,"height":220,"color":"1","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Real Matrices/Real Symmetric Matrices/Real Symmetric Matrix.md"}
+	],
+	"edges":[
+		{"id":"efa43e2b71d71983","fromNode":"0a0412304413a163","fromSide":"bottom","toNode":"4f469f95339bc39a","toSide":"top"}
+	]
+}

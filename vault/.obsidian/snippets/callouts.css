@@ -1,0 +1,54 @@
+
+/* General */
+.callout[data-callout="definition"] {
+    --callout-color: 220, 49, 71;
+    --callout-icon: lucide-scroll-text;
+}
+
+.callout[data-callout="intuition"] {
+    --callout-color: 255, 255, 0;
+    --callout-icon: lucide-lightbulb;
+}
+
+.callout[data-callout="notation"] {
+    --callout-icon: lucide-pen-tool;
+}
+
+.callout[data-callout="algorithm"] {
+    --callout-color: 8, 109, 221;
+    --callout-icon: lucide-route;
+}
+
+/* Math */
+
+.callout[data-callout="axiom"] {
+    --callout-color: 252, 3, 202;
+    --callout-icon: lucide-pill;
+}
+
+.callout[data-callout="theorem"] {
+    --callout-color: 0, 191, 188;
+    --callout-icon: lucide-type;
+}
+
+.callout[data-callout="proof"] {
+    --callout-color: 15, 212, 93;
+    --callout-icon: lucide-check-check;
+}
+
+/* Physics */
+
+.callout[data-callout="law"] {
+    --callout-color: 128, 0, 255;
+    --callout-icon: lucide-telescope;
+}
+
+.callout[data-callout="unit"] {
+    --callout-color: 255, 128, 0;
+    --callout-icon: lucide-ruler;
+}
+
+.callout[data-callout="constant"] {
+    --callout-color: 0, 255, 128;
+    --callout-icon: lucide-omega;
+}

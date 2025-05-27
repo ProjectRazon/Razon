@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"ce9a749ac45b0996","type":"file","file":"Mathematics/Algebra/Linear Algebra/Linear Transformations/Linear Form.md","x":-219,"y":-600,"width":471,"height":374,"color":"1"},
+		{"id":"5d0d1b744da2ea69","type":"file","file":"Mathematics/Algebra/Linear Algebra/Linear Transformations/Kernel.md","x":480,"y":-141,"width":612,"height":321,"color":"1"},
+		{"id":"f4be03a253819f45","type":"file","file":"Mathematics/Algebra/Linear Algebra/Linear Transformations/Linear Transformation.md","x":-279,"y":-138,"width":592,"height":258,"color":"1"},
+		{"id":"5bf5b846ad39d3cd","type":"file","file":"Mathematics/Algebra/Linear Algebra/Linear Transformations/Properties of Linear Transformations.md","x":-274,"y":200,"width":581,"height":736,"color":"5"},
+		{"id":"428c45cffa83e913","type":"file","file":"Mathematics/Algebra/Linear Algebra/Linear Transformations/Matrix Representations of Linear Transformations.md","x":-1180,"y":-537,"width":760,"height":1057}
+	],
+	"edges":[
+		{"id":"0a9d1e4b7c8d87f3","fromNode":"f4be03a253819f45","fromSide":"top","toNode":"ce9a749ac45b0996","toSide":"bottom"},
+		{"id":"ddb7c0eb5a9539ae","fromNode":"f4be03a253819f45","fromSide":"bottom","toNode":"5bf5b846ad39d3cd","toSide":"top"},
+		{"id":"f90f46e137e35e45","fromNode":"f4be03a253819f45","fromSide":"left","toNode":"428c45cffa83e913","toSide":"right"}
+	]
+}

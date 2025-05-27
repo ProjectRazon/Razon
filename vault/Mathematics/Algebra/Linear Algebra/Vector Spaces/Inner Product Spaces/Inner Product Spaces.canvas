@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"e2de8e0398022cb7","type":"file","file":"Mathematics/Algebra/Linear Algebra/Vector Spaces/Inner Product Spaces/Inner Product Space.md","x":-155,"y":-89,"width":515,"height":1309,"color":"1"},
+		{"id":"8e5b5c61c10534d0","type":"file","file":"Mathematics/Algebra/Linear Algebra/Vector Spaces/Inner Product Spaces/Canonical Norm.md","x":480,"y":286,"width":580,"height":560,"color":"1"},
+		{"id":"0936475801e1e2f6","type":"file","file":"Mathematics/Algebra/Linear Algebra/Vector Spaces/Inner Product Spaces/Angle.md","x":1240,"y":668,"width":400,"height":356,"color":"1"},
+		{"id":"d4215ddf3c4023af","type":"file","file":"Mathematics/Algebra/Linear Algebra/Vector Spaces/Inner Product Spaces/Euclidean Metric.md","x":1240,"y":-40,"width":520,"height":520,"color":"1"},
+		{"id":"996f98ce5416f4c9","type":"file","file":"Mathematics/Algebra/Linear Algebra/Vector Spaces/Inner Product Spaces/Euclidean Distance.md","x":1840,"y":99,"width":400,"height":242,"color":"1"},
+		{"id":"13ecef6258721e81","type":"file","file":"Mathematics/Algebra/Linear Algebra/Vector Spaces/Inner Product Spaces/Orthogonality.md","x":537,"y":1400,"width":467,"height":354,"color":"1"},
+		{"id":"51167af9c40d7d53","type":"file","file":"Mathematics/Algebra/Linear Algebra/Vector Spaces/Inner Product Spaces/Orthogonal Basis.md","x":490,"y":1880,"width":560,"height":271,"color":"1"},
+		{"id":"7c9405cb7e98e8fd","type":"file","file":"Mathematics/Algebra/Linear Algebra/Vector Spaces/Inner Product Spaces/Orthogonal Complement.md","x":1196,"y":1264,"width":489,"height":627,"color":"1"},
+		{"id":"04b85130347a92f6","type":"file","file":"Mathematics/Algebra/Linear Algebra/Vector Spaces/Inner Product Spaces/Orthonormal Basis.md","x":438,"y":2280,"width":665,"height":520,"color":"1"},
+		{"id":"8153f79e384b25ac","x":407,"y":2920,"width":728,"height":617,"color":"#086ddd","type":"file","file":"Mathematics/Algebra/Linear Algebra/Vector Spaces/Inner Product Spaces/Gram-Schmidt Orthonormalisation Process.md"}
+	],
+	"edges":[
+		{"id":"ac9902e5a3e48057","fromNode":"e2de8e0398022cb7","fromSide":"right","toNode":"8e5b5c61c10534d0","toSide":"left"},
+		{"id":"daf1dedc9aceac6a","fromNode":"8e5b5c61c10534d0","fromSide":"right","toNode":"d4215ddf3c4023af","toSide":"left"},
+		{"id":"e12d65f11a847312","fromNode":"d4215ddf3c4023af","fromSide":"right","toNode":"996f98ce5416f4c9","toSide":"left"},
+		{"id":"897333d953b7a4f9","fromNode":"8e5b5c61c10534d0","fromSide":"right","toNode":"0936475801e1e2f6","toSide":"left"},
+		{"id":"8405d5f584e4367f","fromNode":"e2de8e0398022cb7","fromSide":"bottom","toNode":"13ecef6258721e81","toSide":"top"},
+		{"id":"084be354389d0e9d","fromNode":"0936475801e1e2f6","fromSide":"bottom","toNode":"13ecef6258721e81","toSide":"top"},
+		{"id":"19761c8d6d825ff5","fromNode":"13ecef6258721e81","fromSide":"bottom","toNode":"51167af9c40d7d53","toSide":"top"},
+		{"id":"d687bf636def1685","fromNode":"51167af9c40d7d53","fromSide":"bottom","toNode":"04b85130347a92f6","toSide":"top"},
+		{"id":"1c7e82c8fb8784c2","fromNode":"13ecef6258721e81","fromSide":"right","toNode":"7c9405cb7e98e8fd","toSide":"left"},
+		{"id":"f176d4b781a17aad","fromNode":"04b85130347a92f6","fromSide":"bottom","toNode":"8153f79e384b25ac","toSide":"top","toEnd":"none"}
+	]
+}

@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"a7d277c643473f33","x":-47,"y":-147,"width":467,"height":427,"color":"1","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Square Matrices/Diagonal Matrices/Diagonal Matrix.md"},
+		{"id":"9f1c1f9b1f4c2d56","x":-113,"y":340,"width":600,"height":333,"color":"5","type":"file","file":"Mathematics/Algebra/Linear Algebra/Matrices/Square Matrices/Diagonal Matrices/Inverting Diagonal Matrices.md"}
+	],
+	"edges":[]
+}
