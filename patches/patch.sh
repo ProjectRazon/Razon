@@ -10,4 +10,4 @@ cp ./components/styles/* ../quartz/quartz/components/styles/
 cp ./components/scripts/* ../quartz/quartz/components/scripts/
 cp ./components/*.* ../quartz/quartz/components/
 
-cp ./icons/icon_transparent.png ../quartz/quartz/static/icon.png
+cp ../logo/razon_logo_white.png ../quartz/quartz/static/icon.png

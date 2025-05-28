@@ -179,6 +179,6 @@ For example, a bpm of 180 means that 180 beats correspond to one minute, which a
 >
 >|Tempo Marking|BPM Range|Explanation|
 >|:--:|:--:|:--:|
->|Larghissimo|under 24|Extremely slow, close to the point at which our ears stop perceiving individual [[Rhythm#Beats|beats]] as a part of a rhythmic whole.|
+>|Larghissimo|under 24|Extremely slow, close to the point at which our ears stop perceiving individual [[Rhythm#Beats\|beats]] as a part of a rhythmic whole.|
 >
 >

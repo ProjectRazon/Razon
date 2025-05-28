@@ -12,9 +12,15 @@ How do we know that it is the changes which matter and not the pressure itself? 
 
 # Waveforms
 
-The waveform of a sound is a graph which illustrates how air pressure varies in time as the sound is playing.
+The **waveform** of a sound is a graph which illustrates how air pressure varies in time as the sound is playing.
 
 ![[res/Waveform.png]]
+
+Although possible, it is practically very difficult to provide a graph of how air pressure *itself* varies in time, since doing so requires a lot of knowledge about the internals of the microphone with which the sound was recorded as well some as some external equipment. Besides, what matters for our sound perception are the relative changes in pressure and not its absolute values, so there is no point in displaying pressure itself anyway.
+
+This is why waveforms show a quantity called **amplitude**.
+
+**Amplitude** is 
 
 The term "amplitude" is pretty much synonymous with "pressure". However, the values shown in a waveform are not absolute, since what matters for our sound perception are the relative changes in pressure and not its absolute values. As such, the choice of what pressure corresponds to an amplitude of $-1.0$ and what pressure corresponds to an amplitude of $1.0$ is completely arbitrary. The only important thing is that lower pressure values are assigned lower amplitudes and higher pressure values are assigned higher amplitudes to make visualization more intuitive. Additionally, amplitudes must be assigned in such a way so as to never go above $1.0$ and below $-1.0$.
 
@@ -22,11 +28,16 @@ Another common convention is to assign an amplitude of $-1.0$ to the lowest valu
 
 The crucial thing to remember is that the actual pressure values behind the amplitudes are irrelevant, only the changes in the amplitude matter. Therefore, the way we perceive a sound is uniquely determined by the shape of its waveform.
 
-## Realistic Waveforms
-
-n practice, the waveform of an actual, physical sound is much more complex than the simplified illustration above and looks more like this:
-
-
+>[!NOTE] Note: Realistic Waveforms
+>
+>In practice, the waveforms of actual, physical sounds have a much more complex shape than the simplified illustration above and look more like this:
+>
+>![[res/Real Waveform.png]]
+>
+>However, if you zoom in close enough, you will see that it is ultimately the same thing as before.
+>
+>![[res/Zoomed Real Waveform.png]]
+>
 
 ## Synthetic Waveforms
 

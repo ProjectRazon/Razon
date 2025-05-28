@@ -5,7 +5,7 @@ title: Welcome to Razon
 
 # What is Razon?
 
-Razon is a knowledge repository whose goal is to serve as a free educational resource for anyone who wants to self-study science or merely supplement their university / high school courses. Head to [[Usage]] in order to learn how to get the most out of the project. 
+**Razon** (from Bulgarian "разум", English "reason" and Spanish "razón") is a knowledge repository whose goal is to serve as a free educational resource for anyone who wants to self-study anything. Head to [[Usage]] in order to learn how to get the most out of the project. 
 
 ## The City of Knowledge
 
@@ -13,4 +13,4 @@ Perhaps the best way to illustrate Razon is to use the following analogy. Imagin
 
 Using the same analogy, Razon's users, i.e. you, can be likened to *tourists* visiting the city of knowledge. You can also become a permanent resident of Razon by [[Contributing]] to the project.
 
-Every city needs tourist information centres to inform its tourist about the sites they can visit and how to get to them, lest they feel overwhelmed by the sheer number of activities to do and places to visit. However, Razon's size necessitates an entire district of such centres and this district is [[index|Eisodos]].
+Every city needs tourist information centres to inform its tourist about the sites they can visit and how to get to them, lest they feel overwhelmed by the sheer number of activities to do and places to visit. However, Razon's size necessitates an entire district of such centres and this district is [[Eisodos/index|Eisodos]].
