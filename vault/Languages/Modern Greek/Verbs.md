@@ -11,7 +11,7 @@ Unlike in [[index|English]], [[TODO|verbs]] in [[index|Modern Greek]] have many 
 
 The fundamental inflectional pattern for verbs is stem + ending. The stem indicates [[Verbs#Aspect|aspect]] and [[Verbs#Voice|voice]], while endings show person, number, [[Verbs#Tense|tense]] and also [[Verbs#Voice|voice]].
 
-## Aspect
+# Aspect
 
 The **aspect** of a [[Verbs#Verbs|verb]] shows how the action is perceived by the speaker at the time of utterance. 
 - **Perfective** verbs represent actions which are perceived as a completed whole or in a neutral way, without reference to duration or frequency;
@@ -102,3 +102,21 @@ A single verb usually has multiple stems which are used for different purposes. 
 <td style="text-align: center;">-ονται</td>
 </tr>
 </table>
+
+# Tense
+
+
+
+# Voice
+
+Verbs in [[./index|Modern Greek]] can be either in the **active voice** or the **medio-passive voice** and they take on different endings depending on the voice they are used in.
+
+In general, the two voices are used as follows:
+- The active voice indicates that the action is being done *by* the subject of the sentence;
+- The medio-passive voice indicates that the action is being done *to* the subject of the sentence.
+
+However, certain verbs, known as **deponent verbs**, always use the passive-voice endings but have an active meaning when translated in English.
+
+# Endings
+
+The ending of a verb in [[./index|Modern Greek]] indicates simultaneously its [[Verbs#Person|person]], [[Verbs#Number|number]], [[Verbs#Tense|tense]] and [[Verbs#Voice|voice]].

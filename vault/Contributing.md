@@ -6,11 +6,11 @@ So you have decided to permanently settle in the [[index#the city of knowledge|c
 
 ## Reporting Issues
 
-You do not need any technical know-how to report issues with Razon - all you need is a [[https://github.com/|GitHub]] account. To report a problem, go to the [[https://github.com/MihailKovachev/Razon/issues|issues section]] of Razon's [[https://github.com/MihailKovachev/Razon|repository]] and create a new issue with the provided template. If the issue is specific to a given page, you can also use the comment section under it, although this is discouraged. Ideally, all issues should be submitted via GitHub's bug report system.
+You do not need any technical know-how to report issues with Razon - all you need is a [GitHub](https://github.com/) account. To report a problem, go to the [issues section](https://github.com/ProjectRazon/Razon/issues) of Razon's [repository](https://github.com/ProjectRazon/Razon) and create a new issue with the provided template. If the issue is specific to a given page, you can also use the comment section under it, although this is discouraged. Ideally, all issues should be submitted via GitHub's bug report system.
 
 ## Requesting Features
 
-Contributions to Razon can come in many forms and feature requests are one of them. If you have an idea about a feature or improvement you would like to see in Razon but do not have the time or ability to implement it yourself, you can submit a feature request by creating an [[https://github.com/MihailKovachev/Razon/issues|issue]] on the [[https://github.com/MihailKovachev/Razon|repository]] using the feature request template.
+Contributions to Razon can come in many forms and feature requests are one of them. If you have an idea about a feature or improvement you would like to see in Razon but do not have the time or ability to implement it yourself, you can submit a feature request by creating an [issue](https://github.com/ProjectRazon/Razon/issues) on the [repository](https://github.com/ProjectRazon/Razon) using the feature request template.
 
 ## Improving the Project
 
