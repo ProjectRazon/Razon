@@ -10,7 +10,7 @@ tags:
 
 ## The City of Knowledge
 
-Perhaps the best way to illustrate Razon is with the following analogy. Imagine Razon as a huge city, a city of knowledge. Every page is like a *building* occupied by pieces of knowledge. Folders are the *districts* where buildings are located and links serve as *streets* connecting various buildings. Tags are like *signs* on each building, indicating what purpose the building serves - is it a groceries store, a pharmacy, an office building?
+Imagine a vast, ever-expanding digital city of knowledge. That's Razon. It’s designed to be a comprehensive, free educational resource for anyone, anywhere and anytime. Every page is like a *building* occupied by pieces of knowledge. Folders are the *districts* where buildings are located and links serve as *streets* connecting various buildings. Tags are like *signs* on each building, indicating what purpose the building serves - is it a groceries store, a pharmacy, an office building?
 
 Using the same analogy, Razon's users, i.e. you, can be likened to *tourists* visiting the city of knowledge. You can also become a permanent resident of Razon by [[Contributing]] to the project.
 

@@ -9,7 +9,11 @@ tags:
 
 Every noun in Latin has an inherent grammatical gender which can be either masculine, feminine or neuter.
 
-The stem of a Latin noun is always determined by removing the [[Nouns#Declension|declension]] ending from its [[TODO|genitive]] [[TODO|singular]] form.
+# Declension
+
+Latin nouns are grouped into five groups, called **declensions**, depending on how they are inflected to reflect their case and number. The declension to which a noun belongs is determined solely by the genitive singular ending of the noun. Hence, nouns in dictionaries are always given with both their nominative singular and genitive singular forms.
+
+To decline a noun, you just add the appropriate ending to its stem. The stem of a Latin noun is always determined by removing the [[Nouns#Declension|declension]] ending from its [[TODO|genitive]] [[TODO|singular]] form.
 
 >[!EXAMPLE]-
 >
@@ -17,16 +21,6 @@ The stem of a Latin noun is always determined by removing the [[Nouns#Declension
 >
 >dominus, domin*ī* (master) -> "domin-"
 >
-
-# Number
-
-Latin nouns have the category of number. The singular form of a noun is used whenever the noun refers to a single thing and the plural form is used whenever the noun refers to multiple instances of the same thing. 
-
-Building the singular and plural form of a noun is done by adding the appropriate ending to its [[Nouns#Noun Stem|stem]]. Every noun takes on different endings depending on its [[Nouns#Declension|declension]] and [[Nouns#Case|case]].
-
-# Declension
-
-Latin nouns are grouped into fived categories, called **declensions**, depending on how they are inflected to reflect their case and number. The declension to which a noun belongs is determined solely by the genitive singular ending of the noun.
 
 <table>
 <caption>Declensions Chart</caption>
@@ -49,6 +43,8 @@ Latin nouns are grouped into fived categories, called **declensions**, depending
 </table>
 
 ## First Declension
+
+Nouns belonging to the first declension are predominantly feminine with some masculine nouns denoting professions and occupations.
 
 <table>
 <caption>First Declension Endings Chart</caption>
@@ -94,8 +90,8 @@ Latin nouns are grouped into fived categories, called **declensions**, depending
 </tr>
 <tr>
 <th align="center">Vocative</th>
-<td align="center">-a</td>
-<td align="center">-ae</td>
+<td align="center">= Nominative</td>
+<td align="center">= Nominative</td>
 </tr>
 <tr></tr>
 </tbody>

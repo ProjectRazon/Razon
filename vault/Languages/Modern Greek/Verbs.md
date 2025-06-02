@@ -11,7 +11,7 @@ Unlike in [[index|English]], [[TODO|verbs]] in [[index|Modern Greek]] have many 
 
 The fundamental inflectional pattern for verbs is stem + ending. The stem indicates [[Verbs#Aspect|aspect]] and [[Verbs#Voice|voice]], while endings show person, number, [[Verbs#Tense|tense]] and also [[Verbs#Voice|voice]].
 
-# Aspect
+# Aspect (Ποιόν ενέργειας)
 
 The **aspect** of a [[Verbs#Verbs|verb]] shows how the action is perceived by the speaker at the time of utterance. 
 - **Perfective** verbs represent actions which are perceived as a completed whole or in a neutral way, without reference to duration or frequency;
@@ -103,9 +103,50 @@ A single verb usually has multiple stems which are used for different purposes. 
 </tr>
 </table>
 
-# Tense
+# Tense (Χρόνος)
+
+Tense is used to indicate *when* the action expressed by a verb is happening. There are six tenses which interact with the [[Verbs#Aspect|aspect]] system and three which exist outside of it, but whose construction is only possible for verbs with a perfective stem.
+
+<table>
+<tr>
+<th style="text-align:center;vertical-align:middle" rowspan=2 colspan=2></th>
+<th style="text-align:center;vertical-align:middle" colspan=2>Aspect</th>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Imperfective</th>
+<th style="text-align:center;vertical-align:middle">Perfective</th>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle" rowspan=3>Time</th>
+<th style="text-align:center;vertical-align:middle">Past</th>
+<td style="text-align:center;vertical-align:middle">Παρατατικός<br>(imperfective past)</td>
+<td style="text-align:center;vertical-align:middle">Αόριστος<br>(perfective past)</td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Present</th>
+<td style="text-align:center;vertical-align:middle">Ενεστώτας (imperfective present)</td>
+<td style="text-align:center;vertical-align:middle">Παρακείμενος (dependent)</td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Future</th>
+<td style="text-align:center;vertical-align:middle">Εξακολουθητικός Μέλλοντας (imperfective future)</td>
+<td style="text-align:center;vertical-align:middle">Συνοπτικός Μέλλοντας (perfective future)</td>
+</tr>
+</table>
 
 
+
+## Future Tenses
+
+All future tenses are formed using the particle "θα" (a contraction of "θέλω") and the present forms:
+- θα + imperfective present -> imperfective future;
+- θα + dependent -> perfective future;
+- θα + present perfect -> future perfect.
+
+## Perfect Tenses
+
+Verbs which have perfective stems can also form three perfect (*not* perfect*ive*) tenses. These constructed using the appropriate form of the verb "έχω" (to have) and the third person singular of the dependent:
+- The present perfect ()
 
 # Voice
 
@@ -120,3 +161,6 @@ However, certain verbs, known as **deponent verbs**, always use the passive-voic
 # Endings
 
 The ending of a verb in [[./index|Modern Greek]] indicates simultaneously its [[Verbs#Person|person]], [[Verbs#Number|number]], [[Verbs#Tense|tense]] and [[Verbs#Voice|voice]].
+
+# Irregular Verbs
+

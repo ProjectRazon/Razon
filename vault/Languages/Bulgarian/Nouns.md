@@ -7,6 +7,8 @@ tags:
 
 # Nouns
 
+[[index#|Bulgarian]] nouns 
+
 # Gender
 
 Nouns in Bulgarian can take on one of three genders - masculine, feminine and neuter. It is not possible to determine the gender of noun solely by looking at it, but most nouns do exhibit certain patterns depending on their ending.
