@@ -558,13 +558,13 @@ Kanji are composed of smaller graphical elements known as **radicals**. Some rad
 
 ### Furigana
 
-Kanji may sometimes be written alongside either [[Orthography and Phonology#Kana|hiragana]] or [[Orthography and Phonology#Kana|katakana]] to indicate their reading such as <ruby>漢<rt>かん</rt>字<rt>じ</rt></ruby>. This is usually done in educational contexts or when the reading of a kanji is be ambiguous. Kana written in this way is known as **furigana**.
+Kanji may sometimes be written alongside either [[Orthography and Phonology#Kana|hiragana]] or [[Orthography and Phonology#Kana|katakana]] to indicate their reading such as <ruby>漢<rt>かん</rt>字<rt>じ</rt></ruby>. This is usually done in educational contexts or when the reading of a kanji is ambiguous. Kana written in this way is known as **furigana**.
 
 # Phonology
 
 ## Vowels
 
-[[index|Japanese]] has six [[TODO|vowel]] [[TODO|phonemes]].
+[[index|Japanese]] has five [[TODO|vowel]] [[TODO|phonemes]].
 
 <table>
 <caption>Japanese Vowel Phonemes</caption>

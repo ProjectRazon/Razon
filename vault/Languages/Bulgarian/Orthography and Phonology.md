@@ -5,7 +5,7 @@ tags:
     - languages
 ---
 
-# The Bulgarian Alphabet
+# Orthography
 
 The [[Writing Systems|writing system]] used by the [[index|Bulgarian]] language is an [[Writing Systems#Alphabets|alphabet]] with 30 letters adapted from the [[Cyrillic Script]].
 
@@ -55,18 +55,53 @@ The [[TODO|grave accent]] is used in the following cases:
 - To distinguish heteronyms such as "вълна̀" (wave) and "в̀ълна" by showing which syllable is stressed.
 - To distinguish the verb comparative particle "по̀" (more) from the [[TODO|preposition]] "по".
 
-# Vowels
+# Phonology
 
-There are six [[TODO|vowel]] [[TODO|phonemes]] in [[index|Bulgarian]] - /a/, /ɤ/, /ɔ/, /u/, /ɛ/,  /i/ indicated by the letters а, ъ, о, у, е, и, respectively. In practice, however, most of these often represent different sounds depending on whether they are stressed:
-- The [[TODO|phonemes]] /a/ and /ɤ/ commonly neutralize to [ɐ] when unstressed;
-- The [[TODO|phonemes]] /ɔ/ and /u/ commonly neutralize to [o] when unstressed.
+Bulgarian features 
+
+## Vowels
+
+There are six [[TODO|vowel]] [[TODO|phonemes]] in [[index|Bulgarian]].
+
+<table>
+<caption>Bulgarian Vowel Phonemes</caption>
+<tr>
+<th style="text-align:center;vertical-align:middle"></th>
+<th style="text-align:center;vertical-align:middle">Front</th>
+<th style="text-align:center;vertical-align:middle">Central</th>
+<th style="text-align:center;vertical-align:middle">Back</th>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Close</th>
+<td style="text-align:center;vertical-align:middle">/i/</td>
+<td style="text-align:center;vertical-align:middle"></td>
+<td style="text-align:center;vertical-align:middle">/u/</td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Mid</th>
+<td style="text-align:center;vertical-align:middle">/ε/</td>
+<td style="text-align:center;vertical-align:middle">/ɤ/</td>
+<td style="text-align:center;vertical-align:middle">/ɔ/</td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Open</th>
+<td style="text-align:center;vertical-align:middle"></td>
+<td style="text-align:center;vertical-align:middle">/a/</td>
+<td style="text-align:center;vertical-align:middle"></td>
+</tr>
+</table>
+</table>
+
+The phonemes /a/, /ɤ/, /ɔ/, /u/, /ɛ/,  /i/ are indicated by the letters а, ъ, о, у, е, и, respectively. In practice, however, most of these are often represented by different [[TODO|allophones]] depending on whether they are stressed:
+- The [[TODO|phonemes]] /a/ and /ɤ/ are actualized as respectively [a] and [ɤ] when stressed but commonly neutralize to [ɐ] when unstressed;
+- The [[TODO|phonemes]] /ɔ/ and /u/ are actualized as respectively [ɔ] and [u] but commonly neutralize to [o] when unstressed.
 
 <table>
 <caption>Phonemic and Phonetic Values of Vowels</caption>
 <thead>
 <tr>
-<th style="text-align:center;vertical-align:middle">Phonemic Value</th>
-<th style="text-align:center;vertical-align:middle">Phonetic Value(s)</th>
+<th style="text-align:center;vertical-align:middle">Phoneme</th>
+<th style="text-align:center;vertical-align:middle">Allophones</th>
 <th style="text-align:center;vertical-align:middle">Example</th>
 </tr>
 </thead>
@@ -110,11 +145,11 @@ There are six [[TODO|vowel]] [[TODO|phonemes]] in [[index|Bulgarian]] - /a/, /ɤ
 </tbody>
 </table>
 
-Many speakers also tend to change /ε/ into [i], but this practice is considered incorrect.
+Many speakers also tend to actualize /ε/ as [i], but this practice is considered incorrect.
 
-# Consonants
+## Consonants
 
-## Phonation
+### Phonation
 
 [[ndex|Bulgarian]] divides [[TODO|obstruent]] [[TODO|consonants]] into distinct pairs of voiced and voiceless consonants.
 

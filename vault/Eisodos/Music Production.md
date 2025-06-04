@@ -10,4 +10,4 @@ tags:
 
 |Order|Page|Contents|Prerequisites|Notes|
 |:--:|:--|:--|:--|:--|
-|1|[[../Music Production/Sound and Waveforms\|Sound and Waveforms]]|The physical fundamentals of sound. Waveforms. Synthetic waves.|None||
+|1|[[../Music Production/Sound\|Sound and Waveforms]]|The physical fundamentals of sound. Waveforms. Synthetic waves.|None||

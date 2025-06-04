@@ -7,7 +7,7 @@ tags:
 
 # Orthography
 
-The [[Writing Systems|writing system]] used by [[index|modern Greek]] is an [[Writing Systems#Alphabets|alphabet]] consisting of 23 letters.
+The [[Writing Systems|writing system]] used for [[index|Modern Greek]] is an [[Writing Systems#Alphabets|alphabet]] consisting of 23 letters.
 
 |Letter|Greek Name|English Name|Pronunciation|
 |:--:|:--:|:--:|:--:|
@@ -69,8 +69,6 @@ The diaeresis `¨` is used to indicate that two consecutive letters should *not*
 
 # Phonology
 
-
-
 In modern Greek, there is a one-to-one correspondence between each [[Orthography and Phonology|letter]] and the sound it makes with very few exceptions.
 
 >[!IMPORTANT] Important: The letter σ
@@ -123,6 +121,48 @@ Certain combinations of letters are pronounced differently from the normal way t
 
 # Phonology
 
+## Vowels
+
+[[./index|Modern Greek]] has five [[TODO|vowel]] [[TODO|phonemes]].
+
+<table>
+<caption>Modern Greek Vowel Phonemes</caption>
+<tr>
+<th style="text-align:center;vertical-align:middle"></th>
+<th style="text-align:center;vertical-align:middle">Front</th>
+<th style="text-align:center;vertical-align:middle">Central</th>
+<th style="text-align:center;vertical-align:middle">Back</th>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Close</th>
+<td style="text-align:center;vertical-align:middle">/i/</td>
+<td style="text-align:center;vertical-align:middle"></td>
+<td style="text-align:center;vertical-align:middle">/u/</td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Mid</th>
+<td style="text-align:center;vertical-align:middle">/e/</td>
+<td style="text-align:center;vertical-align:middle"></td>
+<td style="text-align:center;vertical-align:middle">/o/</td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Open</th>
+<td style="text-align:center;vertical-align:middle"></td>
+<td style="text-align:center;vertical-align:middle">/a/</td>
+<td style="text-align:center;vertical-align:middle"></td>
+</tr>
+</table>
+
+The [[TODO|phonemes]] /a/, /i/, /u/, /e/, /o/ are actualized as the [[TODO|allophones]] [ɐ], [i], [u], [e̞], [o̞], respectively. There is no distinction between long and short vowels.
+
+## Consonants
+
+
+
 ## Stress Accent
 
 The stress of a word in modern Greek always falls on one of the last the syllables called the "antepenult", "penult" and "ultima". This stress is indicated by placing an [[Orthography and Phonology#Diacritics|acute accent]] over the stressed syllable.
+
+# Sources
+
+1. [Modern Greek Phonology - Wikipedia](https://en.m.wikipedia.org/wiki/Modern_Greek_phonology)
