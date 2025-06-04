@@ -6,7 +6,7 @@ tags:
 
 # Rhythm
 
-**Rhythm** is the temporal structure of music. It describes when and for how long [[Sound and Waveforms|sounds]] are to be played during the course of a given musical piece.
+**Rhythm** is the temporal structure of music. It describes when and for how long [[Sound|sounds]] are to be played during the course of a given musical piece.
 
 # Beats
 
