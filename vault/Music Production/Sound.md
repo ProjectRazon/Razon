@@ -8,10 +8,14 @@ tags:
 
 > [!DEFINITION] Definition: Sound
 >
-> **Sound** is what our brains experience when our ears detect variations in the pressure of the air surrounding us.
+> **Sound** is what our brains perceive when our ears detect variations in the pressure of the air surrounding us.
 >
 
-As air pressure changes, it causes some parts of the inside of the ears to move. These movements are then turned into electric signals which propagate through the neurons inside the brain and are ultimately interpreted as sound.
+When air pressure at a given point in space is high, the air particles around that point are more tightly packed and moving with a greater speed. If you were to place something at a point with high air pressure, it would experience greater forces from the air surrounding it. Conversely, when air pressure is low, air particles are sparsely distributed and are moving with a lower speed.  If you were to place something at a point with low air pressure, it would experience less force from the air surrounding it.
+
+![[res/Sound as Air Pressure Changes.mp4]]
+
+As air pressure near our ears changes, the forces exerted by the air particles on our ears cause some parts of the inside of the ears to move. These movements are then turned into electric signals by special cells in the ear and subsequently propagate through the neurons inside the brain to be ultimately interpreted as sound.
 
 > [!TIP] Tip: Sound
 >
@@ -31,11 +35,11 @@ How do we know that it is the changes which matter and not the pressure itself? 
 
 The horizontal axis represents time and the vertical axis shows something called **amplitude**. The details of what amplitude actually *is* are largely irrelevant to music production and are related to how digital and analog audio signals are recorded and converted into one another. The important thing is that amplitude has one crucial property - it is directly proportional to changes in air pressure. This means that the shape of the amplitude's graph is the same as the shape of the graph of the air pressure. 
 
-An amplitude of $0.0$ is assigned to atmospheric pressure, i.e. the air pressure when no sound is playing. The choice of what pressure corresponds to an amplitude of $-1.0$ and what pressure corresponds to an amplitude of $1.0$ is rather arbitrary. The only important thing is that pressure values below atmospheric pressure are assigned negative amplitudes and pressure values above atmospheric pressure are assigned higher amplitudes, making visualization more intuitive.
+An amplitude of $0.0$ is assigned to atmospheric pressure, i.e. the air pressure when no sound is playing. The choice of what pressure corresponds to an amplitude of $-1.0$ and what pressure corresponds to an amplitude of $1.0$ is rather arbitrary. What matters is that pressure values below atmospheric pressure are assigned negative amplitudes and pressure values above atmospheric pressure are assigned higher amplitudes, making visualization more intuitive.
 
 One convention is to assign an amplitude of $-1.0$ to the lowest value to which air pressure drops while the sound is playing and an amplitude of $1.0$ to the highest value to which air pressure rises while the sound is playing. This is a common thing to do when analyzing sounds recorded in isolation.
 
-In contexts related to digital audio production, however, the most common convention is to assign $-1.0$ to the lowest air pressure which a microphone can record (or a speaker can produce) and to assign $1.0$ to the highest air pressure which a microphone can record (or a speaker can produce). This convention is especially useful because if a sound causes air pressure to drop below an amplitude of $-1.0$ or to exceed an amplitude of $1.0$, it will have an audible effect when the recorded sound is played again - you will hear distortion.
+In contexts related to digital audio production, however, the most common convention is to assign $-1.0$ to the lowest air pressure and $+1.0$ to the highest air pressure which the audio device in question can handle. By audio device, we mean either a microphone which records sound or a speaker which produces it. Such a convention is especially useful because if a sound causes air pressure to drop below an amplitude of $-1.0$ or to exceed an amplitude of $1.0$, it will have an audible effect when the recorded sound is played again - you will hear distortion.
 
 The crucial thing to remember is that the actual pressure values behind the amplitudes are irrelevant, only the changes in the amplitude matter. Therefore, the way we perceive a sound is uniquely determined by the shape of its waveform.
 
