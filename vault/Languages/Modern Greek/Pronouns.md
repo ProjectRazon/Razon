@@ -7,102 +7,117 @@ tags:
 
 # Personal Pronouns
 
-
 <table>
-  <thead>
-    <tr>
-      <th style="text-align:center; vertical-align: middle;" rowspan="2"></th>
-      <th style="text-align:center; vertical-align: middle;" colspan="2">Nominative</th>
-      <th style="text-align:center; vertical-align: middle;" colspan="2">Genitive</th>
-      <th style="text-align:center; vertical-align: middle;" colspan="2">Accusative</th>
-      <th style="text-align:center; vertical-align: middle;" colspan="2">Vocative</th>
-    </tr>
-    <tr>
-      <th style="text-align:center; vertical-align: middle;">Singular</th>
-      <th style="text-align:center; vertical-align: middle;">Plural</th>
-      <th style="text-align:center; vertical-align: middle;">Singular</th>
-      <th style="text-align:center; vertical-align: middle;">Plural</th>
-      <th style="text-align:center; vertical-align: middle;">Singular</th>
-      <th style="text-align:center; vertical-align: middle;">Plural</th>
-      <th style="text-align:center; vertical-align: middle;">Singular</th>
-      <th style="text-align:center; vertical-align: middle;">Plural</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- First Person -->
-    <tr>
-      <th style="text-align:center; vertical-align: middle;">1st Person</th>
-      <td style="text-align:center; vertical-align: middle;">εγώ</td>
-      <td style="text-align:center; vertical-align: middle;">εμείς</td>
-      <td style="text-align:center; vertical-align: middle;">μου</td>
-      <td style="text-align:center; vertical-align: middle;">μας</td>
-      <td style="text-align:center; vertical-align: middle;">μένα, με</td>
-      <td style="text-align:center; vertical-align: middle;">εμάς, μας</td>
-      <td style="text-align:center; vertical-align: middle;">-</td>
-      <td style="text-align:center; vertical-align: middle;">-</td>
-    </tr>
-    <!-- Second Person -->
-    <tr>
-      <th style="text-align:center; vertical-align: middle;">2nd Person</th>
-      <td style="text-align:center; vertical-align: middle;">εσύ</td>
-      <td style="text-align:center; vertical-align: middle;">εσείς</td>
-      <td style="text-align:center; vertical-align: middle;">σου</td>
-      <td style="text-align:center; vertical-align: middle;">σας</td>
-      <td style="text-align:center; vertical-align: middle;">σένα, σε</td>
-      <td style="text-align:center; vertical-align: middle;">εσάς, σας</td>
-      <td style="text-align:center; vertical-align: middle;">εσύ</td>
-      <td style="text-align:center; vertical-align: middle;">εσείς</td>
-    </tr>
-    <!-- Third Person Masculine -->
-    <tr>
-      <th style="text-align:center; vertical-align: middle;">3rd Person (Masculine)</th>
-      <td style="text-align:center; vertical-align: middle;">αυτός</td>
-      <td style="text-align:center; vertical-align: middle;">αυτοί</td>
-      <td style="text-align:center; vertical-align: middle;">αυτού, του</td>
-      <td style="text-align:center; vertical-align: middle;">αυτών, τους</td>
-      <td style="text-align:center; vertical-align: middle;">αυτόν, τον</td>
-      <td style="text-align:center; vertical-align: middle;">αυτούς, τους</td>
-      <td style="text-align:center; vertical-align: middle;">-</td>
-      <td style="text-align:center; vertical-align: middle;">-</td>
-    </tr>
-    <!-- Third Person Feminine -->
-    <tr>
-      <th style="text-align:center; vertical-align: middle;">3rd Person (Feminine)</th>
-      <td style="text-align:center; vertical-align: middle;">αυτή</td>
-      <td style="text-align:center; vertical-align: middle;">αυτές</td>
-      <td style="text-align:center; vertical-align: middle;">αυτής, της</td>
-      <td style="text-align:center; vertical-align: middle;">αυτών, τους</td>
-      <td style="text-align:center; vertical-align: middle;">αυτή(ν), τη(ν)</td>
-      <td style="text-align:center; vertical-align: middle;">αυτές, τις, τες</td>
-      <td style="text-align:center; vertical-align: middle;">-</td>
-      <td style="text-align:center; vertical-align: middle;">-</td>
-    </tr>
-    <!-- Third Person Neuter -->
-    <tr>
-      <th style="text-align:center; vertical-align: middle;">3rd Person (Neuter)</th>
-      <td style="text-align:center; vertical-align: middle;">αυτό</td>
-      <td style="text-align:center; vertical-align: middle;">αυτά</td>
-      <td style="text-align:center; vertical-align: middle;">αυτού, του</td>
-      <td style="text-align:center; vertical-align: middle;">αυτών, τους</td>
-      <td style="text-align:center; vertical-align: middle;">αυτό, το</td>
-      <td style="text-align:center; vertical-align: middle;">αυτά, τα</td>
-      <td style="text-align:center; vertical-align: middle;">-</td>
-      <td style="text-align:center; vertical-align: middle;">-</td>
-    </tr>
-  </tbody>
+<caption>First Person Personal Pronouns</caption>
+<tr>
+<th style="text-align:center;vertical-align:middle"></th>
+<th style="text-align:center;vertical-align:middle">Singular</th>
+<th style="text-align:center;vertical-align:middle">Plural</th>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Nominative</th>
+<td style="text-align:center;vertical-align:middle">εγώ</td>
+<td style="text-align:center;vertical-align:middle">εμείς</td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Genitive</th>
+<td style="text-align:center;vertical-align:middle">μου</td>
+<td style="text-align:center;vertical-align:middle">μας</td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Accusative</th>
+<td style="text-align:center;vertical-align:middle">εμένα, με</td>
+<td style="text-align:center;vertical-align:middle">εμάς, μας</td>
+</tr>
 </table>
 
-The third person accusative of the feminine singular is αυτήν / την only if the following word starts with a vowel or κ, π, τ, ξ, ψ, γκ, μπ, ντ and is αυτή / τη otherwise.
+When used with the [[Prepositions|prepositions]] "για" and "από", the pronoun "εμένα" loses the initial "ε", i.e. "για μένα" and "από μένα" instead of "για εμένα" and "από εμένα".
 
-Sometimes, there may be ambiguity about whether a pronoun in a sentence is genitive personal pronoun or a [[Pronouns#Possessive Pronouns|possessive pronoun]]. This is resolved in speech by placing stress on the pronoun and in writing by adding and accent mark on it if it is a [[Pronouns#Personal Pronoun|personal pronoun]]. However, there is no need for an accent mark in writing when both a [[Pronouns#Personal Pronouns|personal pronoun]] and a [[Pronouns#Possessive Pronouns|possessive pronoun]] are used, since it is obvious which is which in this case.
+<table>
+<caption>Second Person Personal Pronouns</caption>
+<tr>
+<th style="text-align:center;vertical-align:middle"></th>
+<th style="text-align:center;vertical-align:middle">Singular</th>
+<th style="text-align:center;vertical-align:middle">Plural</th>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Nominative</th>
+<td style="text-align:center;vertical-align:middle">εσύ</td>
+<td style="text-align:center;vertical-align:middle">εσείς</td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Genitive</th>
+<td style="text-align:center;vertical-align:middle">σου</td>
+<td style="text-align:center;vertical-align:middle">σας</td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Accusative</th>
+<td style="text-align:center;vertical-align:middle">εσένα, σε</td>
+<td style="text-align:center;vertical-align:middle">εσάς, σας</td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Vocative</th>
+<td style="text-align:center;vertical-align:middle">εσύ</td>
+<td style="text-align:center;vertical-align:middle">εσείς</td>
+</tr>
+</table>
 
->[!EXAMPLE]- Example: Ambiguous Pronouns
+When used with the [[Prepositions|prepositions]] "για" and "από", the pronoun "εσένα" loses the initial "ε", i.e. "για σένα" and "από σένα" instead of "για εσένα" and "από εσένα".
+
+<table>
+<caption>Third Person Personal Pronouns</caption>
+<tr>
+<th style="text-align:center;vertical-align:middle" rowspan=2></th>
+<th style="text-align:center;vertical-align:middle" colspan=3>Singular</th>
+<th style="text-align:center;vertical-align:middle" colspan=3>Plural</th>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Masculine</th>
+<th style="text-align:center;vertical-align:middle">Feminine</th>
+<th style="text-align:center;vertical-align:middle">Neuter</th>
+<th style="text-align:center;vertical-align:middle">Masculine</th>
+<th style="text-align:center;vertical-align:middle">Feminine</th>
+<th style="text-align:center;vertical-align:middle">Neuter</th>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Nominative</th>
+<td style="text-align:center;vertical-align:middle">αυτός</td>
+<td style="text-align:center;vertical-align:middle">αυτή</td>
+<td style="text-align:center;vertical-align:middle">αυτό</td>
+<td style="text-align:center;vertical-align:middle">αυτοί</td>
+<td style="text-align:center;vertical-align:middle">αυτές</td>
+<td style="text-align:center;vertical-align:middle">αυτά</td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Genitive</th>
+<td style="text-align:center;vertical-align:middle">αυτού, του</td>
+<td style="text-align:center;vertical-align:middle">αυτής, της</td>
+<td style="text-align:center;vertical-align:middle">αυτού, του</td>
+<td style="text-align:center;vertical-align:middle" colspan=3>αυτών, τους</td>
+</tr>
+<th style="text-align:center;vertical-align:middle">Nominative</th>
+<td style="text-align:center;vertical-align:middle">αυτόν,τον</td>
+<td style="text-align:center;vertical-align:middle">αυτή(ν), τη(ν)</td>
+<td style="text-align:center;vertical-align:middle">αυτό, το</td>
+<td style="text-align:center;vertical-align:middle">αυτούς, τους</td>
+<td style="text-align:center;vertical-align:middle">αυτές, τις, τες</td>
+<td style="text-align:center;vertical-align:middle">αυτά, τα</td>
+</tr>
+</table>
+
+The third person accusative of the feminine singular ends in *-ν* when the following word starts with a vowel or κ, π, τ, ξ, ψ, γκ, μπ, ντ. In all other situations, the *-ν* is optional.
+
+>[!NOTE] Note: Pronoun Ambiguity
 >
->Ο καθηγητής μού εξήγησε το μάθημα. - The teacher explained the lesson *to me*.
+>Sometimes, there may be ambiguity about whether a pronoun in a sentence is genitive personal pronoun or a [[Pronouns#Possessive Pronouns|possessive pronoun]]. This is resolved in speech by placing stress on the pronoun and in writing by adding and accent mark on it if it is a [[Pronouns#Personal Pronoun|personal pronoun]]. However, there is no need for an accent mark in writing when both a [[Pronouns#Personal Pronouns|personal pronoun]] and a [[Pronouns#Possessive Pronouns|possessive pronoun]] are used, since it is obvious which is which in this case.
 >
->Ο καθηγητής μου εξήγησε το μάθημα. - *My* teacher explained the lesson.
->
->Ο καθηγητής μου μου εξήγησε το μάθημα. - *My* teacher explained the lesson *to me*.
+>>[!EXAMPLE]- Example: Ambiguous Pronouns
+>>
+>>Ο καθηγητής μού εξήγησε το μάθημα. - The teacher explained the lesson *to me*.
+>>
+>>Ο καθηγητής μου εξήγησε το μάθημα. - *My* teacher explained the lesson.
+>>
+>>Ο καθηγητής μου μου εξήγησε το μάθημα. - *My* teacher explained the lesson *to me*.
 >
 
 ## Usage

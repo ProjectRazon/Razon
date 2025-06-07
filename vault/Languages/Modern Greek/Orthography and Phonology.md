@@ -7,7 +7,7 @@ tags:
 
 # Orthography
 
-The [[Writing Systems|writing system]] used for [[index|Modern Greek]] is an [[Writing Systems#Alphabets|alphabet]] consisting of 23 letters.
+The [[Writing Systems|writing system]] used by [[index|Modern Greek]] is an [[Writing Systems#Alphabets|alphabet]] consisting of 23 letters.
 
 |Letter|Greek Name|English Name|Pronunciation|
 |:--:|:--:|:--:|:--:|
@@ -153,7 +153,14 @@ Certain combinations of letters are pronounced differently from the normal way t
 </tr>
 </table>
 
-The [[TODO|phonemes]] /a/, /i/, /u/, /e/, /o/ are actualized as the [[TODO|allophones]] [ɐ], [i], [u], [e̞], [o̞], respectively. There is no distinction between long and short vowels.
+The [[TODO|vowel]] [[TODO|phonemes]] are actualized by the following [[../../Linguistics/Phonetics/index#Introduction|phones]]:
+- /a/ as the [[TODO|near-open central vowel]] [ɐ];
+- /i/ as the [[TODO|close front unrounded vowel]] [i];
+- /u/ as the [[TODO|close back rounded vowel]] [u];
+- /e/ as the [[TODO|mid front unrounded vowel]] [e̞];
+- /o/ as the [[TODO|mid back rounded vowel]] [o̞]. 
+
+There is no distinction between long and short vowels.
 
 ## Consonants
 
@@ -161,7 +168,9 @@ The [[TODO|phonemes]] /a/, /i/, /u/, /e/, /o/ are actualized as the [[TODO|allop
 
 ## Stress Accent
 
-The stress of a word in modern Greek always falls on one of the last the syllables called the "antepenult", "penult" and "ultima". This stress is indicated by placing an [[Orthography and Phonology#Diacritics|acute accent]] over the stressed syllable.
+Similarly to English, [[./index|Modern Greek]] has a stress accent system in which every word has a syllable pronounced slightly louder and longer than the others.
+
+The stress of a word always falls on one of its last three syllables. In all polysyllabic words, the stressed syllable is marked by an [[Orthography and Phonology#Diacritics|acute accent]]. Additionally, some monosyllabic words can also bear an [[Orthography and Phonology#Diacritics|acute accent]] which serves to distinguish between [[TODO|homophones]].
 
 # Sources
 

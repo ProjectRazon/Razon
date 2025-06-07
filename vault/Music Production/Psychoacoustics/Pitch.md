@@ -5,9 +5,22 @@ tags:
     - music-production
 ---
 
-# Pitch
+# Introduction
 
-Our brains and ears are very good at detecting repeating patterns in air pressure. The frequency of these repetitions, i.e. the number times per second the pressure departs from and then returns back to some particular value, is what we perceive as **pitch**. Higher frequencies correspond to higher pitches and vice versa.
+Our brains and ears are very good at detecting repeating patterns in air pressure. Such repetitions give rise to a perceptual characteristic of [[../Sound|sounds]] called pitch.
+
+>[!DEFINITION] Definition: Pitch
+>
+>**Pitch** is the subjective characteristic of [[../Sound|sounds]] by which we rank them on a spectrum from low to high.
+>
+
+# Frequency
+
+Pitch is affected by multiple factors but by far the most influential is the frequency with which patterns in the change of air pressure repeat. 
+
+of these repetitions, i.e. the number times per second the pressure departs from and then returns back to some particular value, is what we perceive as **pitch**. 
+
+Higher frequencies correspond to higher pitches and vice versa.
 
 There are many ways in which pressure can oscillate, but the simplest way is in a sinusoidal wave, starting at some particular value, going up to a maximum, highest, value, then dropping down to a minimum, lowest, value and then returning to the original value. We perceive different pitches depending on how many times per second this cycle occurs. Here is a graphical representation of how pressure changes in a sine wave with a frequency of 220 Hz:
 
