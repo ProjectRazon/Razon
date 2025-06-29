@@ -306,25 +306,65 @@ Both uppercase and lowercase letters are used. The letter `U u` may be introduce
 </tbody>
 </table>
 
-# Phonology
-
-## Classical Latin
+# Classical Latin Phonology
 
 The pronunciation of [[index|Classical Latin]] is very simple and predictable, since its [[Orthography and Phonology#Orthography|orthography]] is largely phonemic, especially when the [[Orthography and Phonology#Modern Conventions|modern conventions]] are obeyed.
 
+## Vowels
+
+[[./index|Classical Latin]] had five [[TODO|vowel]] [[TODO|phonemes]] and [[TODO|phonemic vowel length]].
+
 <table>
-<caption>Classical Latin Pronunciation</caption>
-<thead>
+<caption>Classical Latin Vowels</caption>
 <tr>
-<th style="text-align:center;vertical-align:middle">Grapheme(s)</th>
-<th style="text-align:center;vertical-align:middle">Phoneme(s)</th>
-<th style="text-align:center;vertical-align:middle">Example</th>
-<th style="text-align:center;vertical-align:middle">English Approximation</th>
+<th style="text-align:center;vertical-align:middle"></th>
+<th style="text-align:center;vertical-align:middle">Front</th>
+<th style="text-align:center;vertical-align:middle">Central</th>
+<th style="text-align:center;vertical-align:middle">Back</th>
 </tr>
-</thead>
+<tr>
+<th style="text-align:center;vertical-align:middle">Close</th>
+<td style="text-align:center;vertical-align:middle">i iː</td>
+<td style="text-align:center;vertical-align:middle"></td>
+<td style="text-align:center;vertical-align:middle">u uː</td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Mid</th>
+<td style="text-align:center;vertical-align:middle">e eː</td>
+<td style="text-align:center;vertical-align:middle"></td>
+<td style="text-align:center;vertical-align:middle">o oː</td>
+</tr>
+<tr>
+<th style="text-align:center;vertical-align:middle">Open</th>
+<td style="text-align:center;vertical-align:middle"></td>
+<td style="text-align:center;vertical-align:middle">a aː</td>
+<td style="text-align:center;vertical-align:middle"></td>
+</tr>
 </table>
 
-## Ecclesiastical Latin
+The short vowels /i/, /e/, /o/, /u/ were probably pronounced with a relatively [[TODO|open]] quality and are likely to have been actualized as [ɪ], [ɛ], [ɔ], [ʊ], respectively. By contrast, the long vowels /iː/, /eː/, /oː/, /uː/ likely had a relatively [[TODO|close]] quality and were thus actualized as [iː], [eː], [oː], [uː], respectively. Occasionally, ⟨y⟩ might have been actualized as the [[../../Linguistics/Phonetics/index|phone]] [y(ː)], but most speakers probably approximated it as either /i(ː)/.
+
+### Nasalization
+
+Vowels were actualized as long [[../../Linguistics/Phonetics/Vowels|nasal vowels]] in before a word-final ⟨m⟩:
+- dentem /ˈden.tem/ [ˈdɛn.tẽː]
+
+The same thing occurred with vowels before nasal consonants (⟨n⟩ or ⟨m⟩) followed by a [[TODO|fricative]] (⟨s⟩, ⟨f⟩, /z/):
+- censor /ˈken.sor/ [ˈkẽː.sɔr]
+- consul /ˈkon.sul/ [ˈkõː.sʊɫ̪]
+- inferōs /ˈin.fe.roːs/ > [ˈĩː.fɛ.roːs]
+
+In both scenarios, the nasal consonant itself was not pronounced. Additionally, this type of lengthening is rarely indicating with [[Orthography and Phonology#Modern Conventions|macrons]].
+
+### Diphthongs
+
+[[./index|Classical Latin]] had five [[TODO|diphthongs]] - /ae̯/, /oe̯/, /au̯/, /ei̯/, /eu̯/, represented by ⟨ae⟩, ⟨oe⟩, ⟨au⟩, ⟨ei⟩ and ⟨eu⟩, respectively. In some words such as "cui" and "huic", ⟨ui⟩ represented a sixth [[TODO|diphthong]] /ui̯/, but this was the exception rather than the rule. When the two vowels do not represent a diphthong, the modern convention is to put a [[TODO|diaeresis]] (◌̈) on the second vowel - ⟨aë⟩ [ä.ɛ], ⟨aü⟩ [a.ʊ], ⟨eü⟩ [e.ʊ] and ⟨oë⟩ [ɔ.ɛ]. However, when ⟨eu⟩ spans a [[TODO|morpheme]] border, the diaeresis is usually omitted - "meus".
+
+## Consonants
+
+ 
+
+# Ecclesiastical Latin Phonology
 
 Since [[index|Ecclesiastical Latin]] never had any native speakers, it had no single pronunciation. Instead, every speaker had their own pronunciation depending on where they were from and what languages they spoke.
 
