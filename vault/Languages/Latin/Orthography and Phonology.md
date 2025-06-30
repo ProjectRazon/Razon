@@ -362,7 +362,7 @@ In both scenarios, the nasal consonant itself was not pronounced. Additionally, 
 
 ## Consonants
 
- 
+## Stress Accent
 
 # Ecclesiastical Latin Phonology
 
