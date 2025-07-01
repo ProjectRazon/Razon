@@ -334,7 +334,11 @@ Ligatures are quire common in written Arabic. Although there are many optional l
 |:--:|:--:|:--:|:--:|:--:|:--:|
 |ﻼ|ﻼ|ﻻ‎|ﻻ‎|ل + ا|/la:/
 
-# Vowels
+
+
+# Phonology
+
+## Vowels
 
 There are only three [[TODO|vowel]] sounds in [[index|Arabic]] and they can be either short or long: [a] / [aː], [i] / [iː] and [u] / [uː].
 
