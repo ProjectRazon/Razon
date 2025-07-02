@@ -382,9 +382,18 @@ Syllabification in [[./index|Koine Greek]] follows relatively consistent rules, 
 
 ## Accent
 
-[[./index|Koine Greek]] had a [[TODO|pitch accent]] system which slowly evolved into a [[TODO|stress accent]] one. There were three possible ways in which a [[TODO|syllable]] could accented:
+Initially, [[./index|Koine Greek]] had a [[TODO|pitch accent]] system. There were three possible ways in which a [[TODO|syllable]] could accented:
 - a high pitch (for syllables with a short vowel) or a rising pitch (for syllables with a long vowel or diphthong), indicated by an [[Orthography and Phonology#Accents|acute accent]] (◌́);
 - a low pitch (for syllables with a short vowel) or a falling pitch (for syllables with a long vowel or diphthong), indicated by a [[Orthography and Phonology#Accents|grave accent]] (◌̀);
 - a pitch which rises and then falls (only for syllables with a long vowel or diphthong), indicated by a [[Orthography and Phonology#Accents|circumflex accent]] (◌̃ or ◌̑).
 
+This system slowly evolved into [[TODO|stress accent]] one. Pitch distinction was lost and [[TODO|syllables]] began to be accented by pronouncing them slightly longer, more clearly and with more volume, just like in English. Nevertheless, the [[Orthography and Phonology#Accents|accent marks]] were retained in writing to show which syllable is stressed.
+
 The accent always fell on one of the last three syllables. Furthermore, if the ultima contained a long vowel or diphthong, then the accent could not fall on the antepenult - it always fell either on the ultima or the penult. 
+
+# Sources
+
+1. [Koine Greek Phonology - Wikipedia](https://en.wikipedia.org/wiki/Koine_Greek_phonology)
+2. [Koine Greek Pronunciation | KoineGreek.com](https://www.koinegreek.com/koine-pronunciation)
+3. [Greek Orthography - Wikipedia](https://en.wikipedia.org/wiki/Greek_orthography)
+4. [Basics of Biblical Greek: Grammar (Dr. William D. Mounce)](https://www.billmounce.com/basicsofbiblicalgreek/grammar)
