@@ -5,14 +5,15 @@ tags:
     - languages
 ---
 
-# The Arabic Script
+# Orthography
 
 The [[Writing Systems|writing system]] used by the [[index|Arabic]] language is an [[Writing Systems#Abjads|abjad]] consisting of 28 letters. It is a cursive script written from right to left and top to bottom. All letters have between two and four forms depending on their position in a word so as to be able to connect with the letters surrounding them:
 - The initial form is used at the start of a word and connects with the letter after it.
 - The medial form is used in the middle of a word and connects with the letters before and after it.
 - The final form is used at the end of a word and connects with the letter preceding it.
 
-The letters ʾalif (ا), dāl (د), dāl (ذ), rāʾ (ر), zayn (ز) and wāw (و) are the only letters whose medial forms do not connect with the letters following them. When a letter follows them, it is either in its isolated form (if it is the last letter of the word) or in its initial form (if it is not the last letter of the word).
+The letters ʾalif (ا), dāl (د), dhāl (ذ), rāʾ (ر), zayn (ز), and wāw (و) are known as non-connecting letters. They only have two forms and do not connect to a subsequent letter in the word. Any letter that follows them must begin a new connection, taking its initial form (or isolated form if it is the last letter of the word).
+
 <table>
 <caption>The Arabic Script</caption>
 <thead>
@@ -113,7 +114,7 @@ The letters ʾalif (ا), dāl (د), dāl (ذ), rāʾ (ر), zayn (ز) and wāw (�
 <td style="text-align:center" colspan=2>ـز</td>
 <td style="text-align:center" colspan=2>ز</td>
 <td style="text-align:center">/z/</td>
-<td style="text-align:center">زَاي [zaːj] zayn</td>
+<td style="text-align:center">زَاي [zaːj] zāy</td>
 <td style="text-align:center">z</td>
 </tr>
 <tr>
@@ -149,7 +150,7 @@ The letters ʾalif (ا), dāl (د), dāl (ذ), rāʾ (ر), zayn (ز) and wāw (�
 <td style="text-align:center">ضـ</td>
 <td style="text-align:center">ض</td>
 <td style="text-align:center">/dˤ/</td>
-<td style="text-align:center">ضَاد >[dˤaːd] ḍād</td>
+<td style="text-align:center">ضَاد [dˤaːd] ḍād</td>
 <td style="text-align:center">ḍ</td>
 </tr>
 <tr>
@@ -230,7 +231,7 @@ The letters ʾalif (ا), dāl (د), dāl (ذ), rāʾ (ر), zayn (ز) and wāw (�
 <td style="text-align:center">مـ</td>
 <td style="text-align:center">م</td>
 <td style="text-align:center">/m/</td>
-<td style="text-align:center">مِيم [miːm] miim</td>
+<td style="text-align:center">مِيم [miːm] mīm</td>
 <td style="text-align:center">m</td>
 </tr>
 <tr>
@@ -272,12 +273,19 @@ The letters ʾalif (ا), dāl (د), dāl (ذ), rāʾ (ر), zayn (ز) and wāw (�
 
 All letters except for ʾalif (ا), wāw (و) and yāʾ (ي) denote a single [[Orthography and Phonology#Consonants|consonant]] sound. The letters wāw (و) and yāʾ (ي) can denote either the [[Orthography and Phonology#Consonants|consonants]] /w/ and /j/ or the long [[Orthography and Phonology#Vowels|vowels]] /uː/ and /iː/, respectively. The letter ʾalif (ا) does not have its own pronunciation. Instead, it can represent a few different sounds depending on how its used.
 
->[!NOTE] Note: Spelling Variants of ʾalif (ا)
+>[!NOTE]+ Note: Spelling Variants of ʾalif (ا)
 >
 >The letter ʾalif (ا) has two additional spelling variants:
 >- Dagger ʾAlif (الألف الخنجرية, al-ʾAlif al-Khanjariyyah) is a short diacritic (ـٰ) used to indicate that the [[Orthography and Phonology#Consonants|consonant]] on which it is placed is followed by the [[Orthography and Phonology#Vowels|long vowel]] /aː/. This is used only in a few words such as الله (Allāh) in the Quran. Outside of the Quran, it is rarely used. 
 >- ʾAlif Maqṣūrah (الأَلِف المَقْصُورَة) only occurs at a word-final position and looks like a dotless yāʾ (ى). It is pronounced as [[Orthography and Phonology#Vowels|long vowel]] /aː/ and is used only in specific situations.
 >
+
+>[!NOTE]+ Note: تَاء مَرْبُوطَة (tā' marbūṭa)
+>
+>There is a special variant of the letter tā' known as **تَاء مَرْبُوطَة (tā' marbūṭa)**. It can only occur at the end of words. It is written as ﺔ when linked to the previous letter and as ة when unlinked. The pronunciation of tā' marbūṭa varies:
+>- In [[Orthography and Phonology#Full Form and Pause Form|full form]], it is pronounced as /t/ (e.g. سَيَّارَةٌ, sayyāratun).
+>- In [[Orthography and Phonology#Full Form and Pause Form|pause form]], it is pronounced as /h/ (e.g. سَيَّارَةْ sayyārah). However, if the word is the first word of an [[TODO|إضافة]], then it is again pronounced as /t/.
+> 
 
 Short [[Orthography and Phonology#Vowels|vowels]] are almost never written in practice. Speakers have to rely on contextual cues to determine which vowels to pronounce. However, there is a system of diacritics, known as [[Orthography and Phonology#Vocalization|vocalization]], which is used to indicate short [[Orthography and Phonology#Vowels|vowels]] in specific contexts.
 
@@ -287,9 +295,9 @@ A system of diacritics known as **vocalization** is used to show the pronunciati
 
 |Diacritic|IPA|Name|
 |:--:|:--:|:--:|
-|ــَـ|/a/|فَتْحَة fat·ḥah|
-|ــِـ|/i/|كَسْرَة kasrah|
-|ــُـ|/u/|ضَمَّة ḍammah|
+|ـَ|/a/|فَتْحَة fatḥah|
+|ـِ|/i/|كَسْرَة kasrah|
+|ـُ|/u/|ضَمَّة ḍammah|
 |ــْـ |/ø/|سُكُون sukūn|
 
 When such a diacritic is placed on any letter except ʾalif (ا), wāw (و) and yāʾ (ي), it indicates that the [[Orthography and Phonology#Consonants|consonant]] should be pronounced followed by the respective [[Orthography and Phonology#Vowels|short vowel]]. When placed on wāw (و) or yāʾ (ي), the diacritic indicates /w/ or /j/ + the [[Orthography and Phonology#Vowels|short vowel]], respectively.
@@ -299,11 +307,6 @@ In vocalized texts, [[Orthography and Phonology#Vowels|long vowels]] are indicat
 - The [[Orthography and Phonology#Vowels|long vowel]] /u:/ is indicated by و and a ḍammah on the consonant before و.
 - The [[Orthography and Phonology#Vowels|long vowel]] /i:/ is indicated by ي and a kasrah on the consonant before ي;
 
->[!NOTE] Note: Dagger 'Alif
->
->In some common words, the long vowel /aː/ is written as a miniature version of 'alif placed on above the consonant which precedes the vowel.
->
-
 The sukūn is a special diacritic which indicates that there is *no* [[Orthography and Phonology#Vowels|vowel]] after the letter.
 
 >[!NOTE] Note: Use of Vocalization
@@ -311,17 +314,27 @@ The sukūn is a special diacritic which indicates that there is *no* [[Orthograp
 >Vocalization is almost never used in practice. It is only used in the Quran and when teaching the language. Rarely, it might also be used to resolve ambiguity.
 >
 
+### Tanwīn
+
+Three additional diacritics known as **تَنوِين (tanwīn)** may occur on word-final letters. They indicate that the letter should be pronounced followed by a particular [[Orthography and Phonology#Vowels|short vowel]] + /n/. The use of tanwīn is governed by the grammatical rules of [[TODO|nunation]].
+
+|Diacritic|IPA|Name|
+|:--:|:--:|:--:|
+|ـً|/an/|فَتْحَتَيْنِ fatḥahtayn|
+|ـٍ|/in/|كَسْرَتَيْنِ kasratayn|
+|ـٌ|/un/|ضَمَّتَيْنِ ḍammatayn|
+
 ## Hamza
 
-The symbol ء is known as هَمْزة (hamza) and is used to indicate a [[TODO|glottal stop]] /ʔ/. It can appear either on its own like a separate letter or as a diacritic on a "seat": one of ʾalif (ا), wāw (و) and yāʾ (ي). When used as seats for hamzah, the letters ʾalif (ا), wāw (و) and yāʾ (ي) themselves do *not* denote any sound. Furthermore, yāʾ (ي) loses its two dots when acting as a seat for hamza.
+The symbol ء is known as هَمْزة (hamza) and is used to indicate a [[TODO|glottal stop]] /ʔ/. It can appear either on its own like a separate letter or as a diacritic on a "seat": one of ʾalif (ا), wāw (و) and yāʾ (ي). When used as seats for hamza, the letters ʾalif (ا), wāw (و) and yāʾ (ي) themselves do *not* denote any sound. Furthermore, yāʾ (ي) loses its two dots when acting as a seat for hamza.
 
 When hamza is the first [[Orthography and Phonology#Consonants|consonant]] in a word, it is always written either above or below an ʾalif seat:
 - It is written above ʾalif (أ) when the following vowel is /a/ (أَ) or /u/ (أُ) - these are pronounced /ʔa/ and /ʔu/, respectively.
 - It is written below ʾalif (إ) when the following vowel is /i/ (إِ) - this is pronounced /ʔi/.
 
-It is also common to omit a word-initial hamzah symbol and only write the ʾalif seat.
+It is also common to omit a word-initial hamza symbol and only write the ʾalif seat.
 
->[!NOTE] Note: Weak Hamza (هَمْزَة الوَصْل, hamzat al-waṣl)
+>[!NOTE]+ Note: Weak Hamza (هَمْزَة الوَصْل, hamzat al-waṣl)
 >
 >In certain situations, the [[TODO|glottal stop]] /ʔ/ at a word-initial position is pronounced only if the word is at the beginning of a sentence and it is otherwise dropped completely. Such a [[TODO|glottal stop]] /ʔ/ is known as a **weak hamza** (هَمْزَة الوَصْل, hamzat al-waṣl) and is indicated by an ʾalif seat without a hamza symbol. In [[Orthography and Phonology#Vocalization|vocalized]] texts, it is indicated by ٱ (an ʾalif with a waṣlah sign).
 >
@@ -341,7 +354,7 @@ A final hamza is written on the line as an unlinked letter when preceded by any 
 - /i/ -> yāʾ, such as in شَاطِئ (shāṭiʾ).
 
 
->[!NOTE] Note:  ألِف مدَّة (ʾalif madda)
+>[!NOTE]+ Note:  ألِف مدَّة (ʾalif madda)
 >
 >A special symbol (آ) known as ألِف مدَّة (ʾalif madda) is used to denote the combination /ʔaː/ of a [[TODO|glottal stop]] /ʔ/ followed by the [[Orthography and Phonology#Vowels|long vowel]] /aː/.
 >
@@ -519,9 +532,34 @@ The [[TODO|phoneme]] /a/ is realized as [æ] when preceded by most [[Orthography
 
 The [[TODO|phoneme]] /a/ is realized as [ɑ] when preceded by most [[Orthography and Phonology#Consonants|consonants]] the [[Orthography and Phonology#Consonants|emphatic consonants]] /sˤ/, /dˤ/, /tˤ/, /ðˤ/.
 
-# Accent
+>[!NOTE]+ Note: Full Form and Pause Form
+>
+>There are two styles of pronouncing final [[Orthography and Phonology#Vowels|short vowels]] of words in [[./index|Modern Standard Arabic]]:
+>- When a word is pronounced in **full form (وَصْل, waṣl)**, its final [[Orthography and Phonology#Vowels|short vowel]] (if any) is always pronounced (e.g. كَتَبَ).
+>- When a word is pronounced in **pause form (وَقْف, waqf)**, its final [[Orthography and Phonology#Vowels|short vowel]] (if any) is not pronounced (e.g. كَتَبْ).
+>
+>Using full form for every word is rarely done. It is usually restricted to Quranic recitation, poetry, highly formal speeches and is also done when teaching the language. In formal contexts, pause form is used for the final word of each sentence and when there is a natural break for breathing. All other words are in full form. In informal contexts, pause form is used for pretty much all words.
+>
+>Pause form also affects the pronunciation of [[Orthography and Phonology#Orthography|tā' marbūṭa]].
+>
 
-TODO
+## Syllabification
+
+[[TODO|Syllable]] structure in [[./index|Modern Standard Arabic]] is fairly restricted because syllables are limited to one of five forms: 
+- CV (light)
+- CVV (heavy)
+- CVC (heavy)
+- CVVC (super-heavy)
+- CVCC (super-heavy)
+
+[[TODO|Syllables]] can never begin with a [[Orthography and Phonology#Vowels|vowel]]. Even though it might sometimes seems like a [[TODO|syllable]] starts with a [[Orthography and Phonology#Vowels|vowel]], such [[TODO|syllables]] actually start with a [[TODO|glottal stop]].
+
+## Accent
+
+[[./index|Modern Standard Arabic]] has a [[TODO|stress accent]] system, similar to the one in English, where an accented (or stressed) syllable is pronounced slightly longer, more clearly and with a bit more volume. For the most part, stress is predictable and follows certain rules, although there are some variations between dialects. These rules are given below in order of decreasing precedence:
+- If the final [[Orthography and Phonology#Syllabification|syllable]] is CVVC or CVCC, then the stress falls on it (e.g. كِتَاب ki-TĀB, مُسْتَقِلّ mus-ta-QILL).
+- If the second-to-last [[Orthography and Phonology#Syllabification|syllable]] is CVV or CVC, then the stress falls on it (e.g. )
+- If the second-to-last [[Orthography and Phonology#Syllabification|syllable]] is CV, then the stress falls on the third-to-last syllable (e.g. كَتَبَ KA-ta-ba). 
 
 # Sources
 
