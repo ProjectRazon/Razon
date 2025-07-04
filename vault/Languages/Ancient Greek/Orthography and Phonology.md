@@ -1,16 +1,16 @@
 ---
 title: Orthography and Phonology
 tags:
-    - koine-greek-language
+    - ancient-greek-language
     - languages
 ---
 
 # Orthography
 
-[[./index|Koine Greek]] was written using an [[../../Linguistics/Writing Systems|alphabet]] consisting of 24 letters.
+[[./index|Ancient Greek]] was written using an [[../../Linguistics/Writing Systems|alphabet]] consisting of 24 letters.
 
 <table>
-<caption>Koine Greek Alphabet</caption>
+<caption>Ancient Greek Alphabet</caption>
 <thead>
 <tr>
 <th style="text-align:center;vertical-align:middle">Letter</th>
@@ -60,7 +60,7 @@ tags:
 <td style="text-align:center;vertical-align:middle">Ζ ζ</td>
 <td style="text-align:center;vertical-align:middle">zeta</td>
 <td style="text-align:center;vertical-align:middle">ζῆτα</td>
-<td style="text-align:center;vertical-align:middle">/dz/</td>
+<td style="text-align:center;vertical-align:middle">/zd/</td>
 <td style="text-align:center;vertical-align:middle">z</td>
 </tr>
 <tr>
@@ -192,12 +192,16 @@ tags:
 </tbody>
 </table>
 
-For the most part, the alphabet is phonemic - each letter always represents the same sound. The letters α and ι can indicate either a short or a long [[Orthography and Phonology#Vowels|vowel]]. When γ is followed by γ, κ, χ, or ξ, it is pronounced as [ŋ].
+When sigma is the final letter of a word, it is written as ς. The other form is used in all other situations. 
+
+For the most part, each letter always represents the same sound with the following exceptions:
+- The letters α, ι and υ can indicate either a short or a long [[Orthography and Phonology#Vowels|vowel]]. Although this was not done in Ancient Greece, today a diacritic may be placed on top of these letters to indicate whether the pronounced [[Orthography and Phonology#Vowels|vowel]] is short or long: a breve (ᾰ, ῐ, ῠ) indicates a [[Orthography and Phonology#Vowels|short vowel]]; a macron (ᾱ, ῑ, ῡ) indicates a [[Orthography and Phonology#Vowels|long vowel]].
+- When γ is followed by γ, κ, χ, or ξ, it is pronounced as [ŋ].
 
 Certain combinations of letters, known as **digraphs** are used to represent different sounds and [[Orthography and Phonology#Vowels|diphthongs]].
 
 <table>
-<caption>Koine Greek Digraphs</caption>
+<caption>Ancient Greek Digraphs</caption>
 <thead>
 <tr>
 <th style="text-align:center;vertical-align:middle">Digraph</th>
@@ -211,11 +215,15 @@ Certain combinations of letters, known as **digraphs** are used to represent dif
 </tr>
 <tr>
 <td style="text-align:center;vertical-align:middle">ει</td>
-<td style="text-align:center;vertical-align:middle">/iː/</td>
+<td style="text-align:center;vertical-align:middle">/eː/</td>
 </tr>
 <tr>
 <td style="text-align:center;vertical-align:middle">οι</td>
-<td style="text-align:center;vertical-align:middle">/iː/</td>
+<td style="text-align:center;vertical-align:middle">/oi/</td>
+</tr>
+<tr>
+<td style="text-align:center;vertical-align:middle">υι</td>
+<td style="text-align:center;vertical-align:middle">/yj/</td>
 </tr>
 <tr>
 <td style="text-align:center;vertical-align:middle">αυ</td>
@@ -227,24 +235,33 @@ Certain combinations of letters, known as **digraphs** are used to represent dif
 </tr>
 <tr>
 <td style="text-align:center;vertical-align:middle">ου</td>
-<td style="text-align:center;vertical-align:middle">/uː/</td>
+<td style="text-align:center;vertical-align:middle">/oː/</td>
 </tr>
 <tr>
 <td style="text-align:center;vertical-align:middle">ηυ</td>
-<td style="text-align:center;vertical-align:middle">/ɛːu/</td>
+<td style="text-align:center;vertical-align:middle">/εːu/</td>
 </tr>
 <tr>
-<td style="text-align:center;vertical-align:middle">υι</td>
-<td style="text-align:center;vertical-align:middle">/yː/</td>
+<td style="text-align:center;vertical-align:middle">ωυ</td>
+<td style="text-align:center;vertical-align:middle">/ɔːu/</td>
 </tr>
 </tbody>
 </table>
 
 When two letters which usually form digraph are supposed to be treated separately, a diaeresis (◌̈) is placed on the second letter: Ἠσαΐας.
 
-## Accents
+## Iota Subscript
 
-Three accents are used to indicate the [[Orthography and Phonology#Stress|stress]] in a word. The acute accent (◌́) marks a high pitch on a short vowel and a rising pitch on a long vowel. The grave accent (◌̀) indicates a low pitch on a short vowel and a falling pitch on a long vowel. The circumflex accent (◌̃ or ◌̑) marks a pitch which initially rises and then falls within the same [[TODO|syllable]]. When the accented syllable is written with a [[Orthography and Phonology#Orthography|digraph]], the accent is placed on the second letter: αί.
+The [[Orthography and Phonology#Vowels|long diphthongs]] /aːi/, /εːi/, /ɔːi/ were rarely written as αι, ηι and ωι, respectively. Instead, the iota was usually written as a subscript under the first letter: ᾳ, ῃ, ῳ.
+
+## Accent Marks
+
+Three accent marks are used to indicate the [[Orthography and Phonology#Accent|accent]] in a word:
+- The acute accent (◌́) can occur on any [[Orthography and Phonology#Vowels|vowel]] or [[Orthography and Phonology#Vowels|diphthong]]. When used on a [[Orthography and Phonology#Vowels|diphthong]], it is always placed on the second letter of the respective digraph. If placed on a [[Orthography and Phonology#Vowels|long vowel]] or a [[Orthography and Phonology#Vowels|long diphthong]], it indicates that the pitch begins low at the start of the [[TODO|syllable]] and rises until its end.
+- The circumflex accent (◌̃ or ◌̑) can only occur on [[Orthography and Phonology#Vowels|diphthongs]] and [[Orthography and Phonology#Vowels|long vowels]]. It indicates that the pitch begins high at the start of the [[TODO|syllable]] and drops until its end.
+- The grave accent (◌̀) can only occur on the last [[TODO|syllable]] of a word and replaces an acute accent when the next word is [[TODO|non-enclitic]] and there is no intervening punctuation (e.g. "αὐτὸ τὸ θηρίον ἀγαθὸν καὶ καλόν ἐστι"). It probably indicated pitch that is somewhere between unaccented and accented syllables.
+
+The acute accent (◌́) can only occur on one of the last three [[TODO|syllables]] of a word, while the circumflex accent (◌̃ or ◌̑) can only occur on one of the last two.
 
 ## Breathings
 
@@ -254,18 +271,14 @@ A **breathing mark** is placed on the first letter of words beginning with a vow
 
 The letters rho and upsilon always take the rough breathing. If the word begins with a capital letter, the breathing is placed before it: Ὠ, Ὡ. If the word starts with a [[Orthography and Phonology#Orthography|digraph]], the breathing is placed on the second letter: αἰτέω. If the [[Orthography and Phonology#Stress|stress]] also falls on the initial vowel, then the breathing and the [[Orthography and Phonology#Accents|accent]] are combined - ὤ, ὢ, ὦ, ὥ, ὣ, ὧ, Ὤ, Ὢ, Ὦ, Ὥ, Ὣ, Ὧ.
 
-## Iota Subscript
-
-Greek in the pre-classical and classical eras had three "long diphthongs" formed by the long vowels α, η and ω + the letter ι. By the time of [[./index|Koine Greek]], however, the iota stopped being pronounced. Nevertheless, it was still written as a subscript below the other letter: ᾳ, ῃ, ῳ.
-
 # Phonology
 
 ## Consonants
 
-[[./index|Koine Greek]] had the following [[TODO|consonant]] [[TODO|phonemes]]:
+[[./index|Ancient Greek]] had the following [[TODO|consonant]] [[TODO|phonemes]]:
 
 <table>  
-<caption>Koine Greek Consonant Phonemes</caption>  
+<caption>Ancient Greek Consonant Phonemes</caption>  
 <thead>  
 <tr>  
 <th style="text-align:center;vertical-align:middle"></th>  
@@ -333,10 +346,10 @@ Greek in the pre-classical and classical eras had three "long diphthongs" formed
 
 ## Vowels
 
-[[./index|Koine Greek]] had the following [[TODO|vowel]] [[TODO|phonemes]]:
+[[./index|Ancient Greek]] had the following [[TODO|vowel]] [[TODO|phonemes]]:
 
 <table>
-<caption>Koine Greek Vowel Phonemes</caption>
+<caption>Ancient Greek Vowel Phonemes</caption>
 <tr>
 <th style="text-align:center;vertical-align:middle"></th>
 <th style="text-align:center;vertical-align:middle">Front</th>
@@ -345,15 +358,15 @@ Greek in the pre-classical and classical eras had three "long diphthongs" formed
 </tr>
 <tr>
 <th style="text-align:center;vertical-align:middle">Close</th>
-<td style="text-align:center;vertical-align:middle">/i(ː)/ ι, /y/ υ, /yː/ υι</td>
+<td style="text-align:center;vertical-align:middle">/i(ː)/ ι, /y(ː)/ υ</td>
 <td style="text-align:center;vertical-align:middle"></td>
-<td style="text-align:center;vertical-align:middle">/uː/ ου</td>
+<td style="text-align:center;vertical-align:middle"></td>
 </tr>
 <tr>
 <th style="text-align:center;vertical-align:middle">Mid</th>
-<td style="text-align:center;vertical-align:middle">/e̞/ ε</td>
+<td style="text-align:center;vertical-align:middle">/e/ ε, /eː/ ει</td>
 <td style="text-align:center;vertical-align:middle"></td>
-<td style="text-align:center;vertical-align:middle">/o̞/ ο</td>
+<td style="text-align:center;vertical-align:middle">/o/ ο, /oː/ ου</td>
 </tr>
 <tr>
 <th style="text-align:center;vertical-align:middle">Open-Mid</th>
@@ -369,31 +382,30 @@ Greek in the pre-classical and classical eras had three "long diphthongs" formed
 </tr>
 </table>
 
-[[./index|Koine Greek]] also had the following [[TODO|diphthongs]]: /ai/, /o̞i/, /au/ and /eu/.
+[[./index|Ancient Greek]] also had the following [[TODO|diphthongs]]: 
+- The short diphthongs /ai/, /oi/, /yj/, /au/ and /eu/;
+- The long diphthongs /aːi/, /εːi/, /ɔːi/, /aːu/, /εːu/ and /ɔːu/.
 
 ## Syllabification
 
-Syllabification in [[./index|Koine Greek]] follows relatively consistent rules, primarily based on the principle that consonants tend to begin new syllables whenever possible:
+Syllabification in [[./index|Ancient Greek]] follows relatively consistent rules, primarily based on the principle that consonants tend to begin new syllables whenever possible:
 - Every syllable must contain exactly one vowel or diphthong. [[Orthography and Phonology#Orthography|Digraphs]] always remain within a single syllable, as they represent a single vowel sound or a diphthong (e.g., οἶ-κος, εὔ-χο-μαι). The [[Orthography and Phonology#Iota Subscript|iota subscript]] (ᾳ, ῃ, ῳ) does not form a separate syllable and is treated as part of the main vowel for syllabification.
 - A single consonant between two vowels generally forms the onset of the *following* syllable (λό-γος, ἔ-χω).
 - When two consonants occur together, they are usually divided, with the first closing the preceding syllable and the second opening the following syllable (e.g., γράμ-μα, ἀρ-χή). If the first consonant is a stop (π, β, φ, τ, δ, θ, κ, γ, χ) and the second is a liquid (λ, ρ), they generally stay together and begin the second syllable (πα-τρός, ἄ-θλη-μα).
 - When three or more consonants occur together, the first consonant typically closes the preceding syllable, and the remaining consonants (if they form a permissible cluster) begin the following syllable (ἔν-δει-ξις, ἄν-θρω-πος).
 - In compound words or words with prefixes, syllabification usually respects morpheme boundaries (συν-ά-γω, ἀπ-έ-χω). This means a prefix often forms its own syllable or completes the preceding one, rather than having its final consonant move to the next syllable's onset.
 
+>[!DEFINITION] Definition: Short and Long Syllables
+>
+>A [[TODO|syllable]] is:
+>- **short** if it contains a [[Orthography and Phonology#Vowels|short vowel]];
+>- **long** if it contains a [[Orthography and Phonology#Vowels|long vowel]] or any [[Orthography and Phonology#Vowels|diphthong]].
+>
+
 ## Accent
 
-Initially, [[./index|Koine Greek]] had a [[TODO|pitch accent]] system. There were three possible ways in which a [[TODO|syllable]] could accented:
-- a high pitch (for syllables with a short vowel) or a rising pitch (for syllables with a long vowel or diphthong), indicated by an [[Orthography and Phonology#Accents|acute accent]] (◌́);
-- a low pitch (for syllables with a short vowel) or a falling pitch (for syllables with a long vowel or diphthong), indicated by a [[Orthography and Phonology#Accents|grave accent]] (◌̀);
-- a pitch which rises and then falls (only for syllables with a long vowel or diphthong), indicated by a [[Orthography and Phonology#Accents|circumflex accent]] (◌̃ or ◌̑).
-
-This system slowly evolved into [[TODO|stress accent]] one. Pitch distinction was lost and [[TODO|syllables]] began to be accented by pronouncing them slightly longer, more clearly and with more volume, just like in English. Nevertheless, the [[Orthography and Phonology#Accents|accent marks]] were retained in writing to show which syllable is stressed.
+[[./index|Ancient Greek]] had a [[TODO|pitch accent]] system. The accented [[Orthography and Phonology#Syllabification|syllable]] in a word was pronounced with a higher pitch than the rest of the [[TODO|syllables]] and in writing is indicated by one of three different [[Orthography and Phonology#Accent Marks|accent marks]]. There are two possible patterns of accentuation for [[Orthography and Phonology#Syllabification|syllables]] which contain a [[Orthography and Phonology#Vowels|long vowel]] or a [[Orthography and Phonology#Vowels|long diphthong]] - the pitch can initially begin low and rise until the end of the [[Orthography and Phonology#Syllabification|syllable]] (indicated by the [[Orthography and Phonology#Accent Marks|acute accent]] ◌́) or it can begin high and then drop until the end of the [[Orthography and Phonology#Syllabification|syllable]] (indicated by the [[Orthography and Phonology#Accent Marks|circumflex accent]] ◌̃ or ◌̑). 
 
 The accent always fell on one of the last three syllables. Furthermore, if the ultima contained a long vowel or diphthong, then the accent could not fall on the antepenult - it always fell either on the ultima or the penult. 
 
 # Sources
-
-1. [Koine Greek Phonology - Wikipedia](https://en.wikipedia.org/wiki/Koine_Greek_phonology)
-2. [Koine Greek Pronunciation | KoineGreek.com](https://www.koinegreek.com/koine-pronunciation)
-3. [Greek Orthography - Wikipedia](https://en.wikipedia.org/wiki/Greek_orthography)
-4. [Basics of Biblical Greek: Grammar (Dr. William D. Mounce)](https://www.billmounce.com/basicsofbiblicalgreek/grammar)
