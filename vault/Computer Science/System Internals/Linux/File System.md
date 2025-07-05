@@ -1,3 +1,11 @@
+---
+title: File System
+tags:
+    - linux
+    - computer-science
+---
+
+
 # Unified File System
 
 Linux uses a unified file system which begins at the `/` directory (pronounced "root", notwithstanding this unfortunate naming). 
